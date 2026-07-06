@@ -1,0 +1,737 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MSc Economics Starter Kit",
+    "section": "",
+    "text": "This document provides resources to prepare for the MSc Economics programme at the University of Leeds. It outlines the prior knowledge assumed in the core modules of the programme. References are given to help you refresh your knowledge and address any gaps before the programme begins. The document also provides a set of multiple choice quizzes to test your knowledge and identify any gaps. Incoming students are strongly encouraged to review the material listed below before commencing their studies."
+  },
+  {
+    "objectID": "index.html#question-1-fractions",
+    "href": "index.html#question-1-fractions",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.1 Question 1: Fractions",
+    "text": "6.1 Question 1: Fractions\nSimplify\n\\[\n\\frac{\\frac{2x}{2y}}{\\frac{z}{y}}.\n\\]\n\nA. \\(\\frac{x}{z}\\)\nB. \\(\\frac{z}{x}\\)\nC. \\(\\frac{2xy}{z}\\)\nD. \\(\\frac{2x}{yz}\\)"
+  },
+  {
+    "objectID": "index.html#question-2-powers",
+    "href": "index.html#question-2-powers",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.2 Question 2: Powers",
+    "text": "6.2 Question 2: Powers\nSimplify\n\\[\n\\frac{a^{m+2}a^{n-1}}{a^{m+n}}.\n\\] - A. \\(a^{-1}\\) - B. \\(a^2\\) - C. \\(a\\) - D. \\(a^3\\)"
+  },
+  {
+    "objectID": "index.html#question-3-roots",
+    "href": "index.html#question-3-roots",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.3 Question 3: Roots",
+    "text": "6.3 Question 3: Roots\nSimplify\n\\[\n\\sqrt{18x^2}\n\\]\nassuming \\(x&gt;0\\).\n\nA. \\(3x\\sqrt{2}\\)\nB. \\(9x\\sqrt{2}\\)\nC. \\(6x\\sqrt{2}\\)\nD. \\(3\\sqrt{2x}\\)"
+  },
+  {
+    "objectID": "index.html#question-4-linear-vs-non-linear-equations",
+    "href": "index.html#question-4-linear-vs-non-linear-equations",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.4 Question 4: Linear vs Non-Linear Equations",
+    "text": "6.4 Question 4: Linear vs Non-Linear Equations\nWhich of the following is not a linear equation in \\(x\\) and \\(y\\)?\n\nA. \\(2x-3y=7\\)\nB. \\(y=\\frac{1}{2}x-4\\)\nC. \\(3x+y=0\\)\nD. \\(xy=6\\)"
+  },
+  {
+    "objectID": "index.html#question-5-slope",
+    "href": "index.html#question-5-slope",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.5 Question 5: Slope",
+    "text": "6.5 Question 5: Slope\nWhat is the slope of the line\n\\[\n3y-6x=9?\n\\]\n\nA. \\(-2\\)\nB. \\(2\\)\nC. \\(\\frac{1}{2}\\)\nD. \\(-\\frac{1}{2}\\)"
+  },
+  {
+    "objectID": "index.html#question-6-intercept",
+    "href": "index.html#question-6-intercept",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.6 Question 6: Intercept",
+    "text": "6.6 Question 6: Intercept\nWhat is the \\(y\\)-intercept of the line\n\\[\n2x+5y=15\n\\]\n?\n\nA. \\(3\\)\nB. \\(-3\\)\nC. \\(5\\)\nD. \\(\\frac{15}{2}\\)"
+  },
+  {
+    "objectID": "index.html#question-7-simultaneous-equations",
+    "href": "index.html#question-7-simultaneous-equations",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.7 Question 7: Simultaneous Equations",
+    "text": "6.7 Question 7: Simultaneous Equations\nSolve:\n\\[\nx+y=7\n\\]\n\\[\nx-y=1\n\\]\nThe solution is:\n\nA. \\((4,3)\\)\nB. \\((3,4)\\)\nC. \\((7,1)\\)\nD. \\((1,7)\\)"
+  },
+  {
+    "objectID": "index.html#question-8-differentiation-i",
+    "href": "index.html#question-8-differentiation-i",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.8 Question 8: Differentiation I",
+    "text": "6.8 Question 8: Differentiation I\nDifferentiate:\n\\[\nf(x)=x^5\n\\]\n\nA. \\(x^4\\)\nB. \\(5x^4\\)\nC. \\(5x\\)\nD. \\(x^5\\)"
+  },
+  {
+    "objectID": "index.html#question-9-differentiation-ii",
+    "href": "index.html#question-9-differentiation-ii",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.9 Question 9: Differentiation II",
+    "text": "6.9 Question 9: Differentiation II\nDifferentiate:\n\\[\nf(x)=x e^x\n\\]\n\nA. \\(x e^x\\)\nB. \\(e^x + x e^x\\)\nC. \\(e^x\\)\nD. \\(x e^{x-1}\\)"
+  },
+  {
+    "objectID": "index.html#question-10-differentiation-iii",
+    "href": "index.html#question-10-differentiation-iii",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.10 Question 10: Differentiation III",
+    "text": "6.10 Question 10: Differentiation III\nDifferentiate:\n\\[\nf(x)=\\sqrt{3x+1}\n\\]\n\nA. \\(\\frac{1}{2\\sqrt{3x+1}}\\)\nB. \\(\\frac{3}{2\\sqrt{3x+1}}\\)\nC. \\(\\frac{3}{\\sqrt{3x+1}}\\)\nD. \\(\\frac{1}{\\sqrt{3x+1}}\\)"
+  },
+  {
+    "objectID": "index.html#question-11-differentiation-iv",
+    "href": "index.html#question-11-differentiation-iv",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.11 Question 11: Differentiation IV",
+    "text": "6.11 Question 11: Differentiation IV\nDifferentiate:\n\\[\nf(x)=\\ln(x^2)\n\\]\n\nA. \\(\\frac{1}{x^2}\\)\nB. \\(\\frac{2}{x}\\)\nC. \\(2x\\)\nD. \\(\\ln(2x)\\)"
+  },
+  {
+    "objectID": "index.html#question-12-differentiation-v",
+    "href": "index.html#question-12-differentiation-v",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.12 Question 12: Differentiation V",
+    "text": "6.12 Question 12: Differentiation V\nDifferentiate:\n\\[\nf(x)=e^{2x}\n\\]\n\nA. \\(e^{2x}\\)\nB. \\(2e^{2x}\\)\nC. \\(e^{x}\\)\nD. \\(2x e^{2x}\\)"
+  },
+  {
+    "objectID": "index.html#question-13-rules-of-logarithms",
+    "href": "index.html#question-13-rules-of-logarithms",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.13 Question 13: Rules of Logarithms",
+    "text": "6.13 Question 13: Rules of Logarithms\nSimplify:\n\\[\n\\ln(a)+\\ln(b)\n\\]\n\nA. \\(\\ln(a+b)\\)\nB. \\(\\ln(ab)\\)\nC. \\(\\ln(a/b)\\)\nD. \\(\\ln(a^b)\\)"
+  },
+  {
+    "objectID": "index.html#question-14-total-derivative",
+    "href": "index.html#question-14-total-derivative",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.14 Question 14: Total Derivative",
+    "text": "6.14 Question 14: Total Derivative\nLet\n\\[\nz=x^2y+y^3\n\\]\nIf \\(y=y(x)\\), then \\(\\frac{dz}{dx}\\) is:\n\nA. \\(2xy + 3y^2\\)\nB. \\(2xy + x^2\\frac{dy}{dx} + 3y^2\\frac{dy}{dx}\\)\nC. \\(2x + 3y\\)\nD. \\(x^2 + y^3\\)"
+  },
+  {
+    "objectID": "index.html#question-15-implicit-differentiation",
+    "href": "index.html#question-15-implicit-differentiation",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.15 Question 15: Implicit Differentiation",
+    "text": "6.15 Question 15: Implicit Differentiation\nGiven\n\\[\nx^2 + y^2 = 1\n\\]\nthen \\(\\frac{dy}{dx}=\\)\n\nA. \\(\\frac{x}{y}\\)\nB. \\(-\\frac{y}{x}\\)\nC. \\(\\frac{y}{x}\\)\nD. \\(-\\frac{x}{y}\\)"
+  },
+  {
+    "objectID": "index.html#question-16-first-order-condition",
+    "href": "index.html#question-16-first-order-condition",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.16 Question 16: First-Order Condition",
+    "text": "6.16 Question 16: First-Order Condition\nA stationary point (= extremum) of \\(f(x)\\) occurs when:\n\nA. \\(f(x)=0\\)\nB. \\(f'(x)=0\\)\nC. \\(f''(x)=0\\)\nD. \\(f(x)=f'(x)\\)"
+  },
+  {
+    "objectID": "index.html#question-17-second-order-condition",
+    "href": "index.html#question-17-second-order-condition",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.17 Question 17: Second-Order Condition",
+    "text": "6.17 Question 17: Second-Order Condition\nIf \\(f'(x)=0\\) and \\(f''(x)&gt;0\\), the point is:\n\nA. Local maximum\nB. Local minimum\nC. Point of inflection\nD. Saddle point"
+  },
+  {
+    "objectID": "index.html#question-18-curvature",
+    "href": "index.html#question-18-curvature",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.18 Question 18: Curvature",
+    "text": "6.18 Question 18: Curvature\nIf \\(f''(x)&lt;0\\), then \\(f(x)\\) is:\n\nA. Convex (concave up)\nB. Concave down\nC. Linear\nD. Constant"
+  },
+  {
+    "objectID": "index.html#question-19-identifying-extrema",
+    "href": "index.html#question-19-identifying-extrema",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.19 Question 19: Identifying Extrema",
+    "text": "6.19 Question 19: Identifying Extrema\nIf \\(f'(x)=0\\) and \\(f''(x)&lt;0\\), the point is a:\n\nA. Local maximum\nB. Local minimum\nC. Point of inflection\nD. Saddle point"
+  },
+  {
+    "objectID": "index.html#question-20-finding-an-extremum-optimisation-i",
+    "href": "index.html#question-20-finding-an-extremum-optimisation-i",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.20 Question 20: Finding an Extremum (Optimisation) I",
+    "text": "6.20 Question 20: Finding an Extremum (Optimisation) I\nFind the extremum of\n\\[\nf(x)=x^2-4x+7\n\\]\n\nA. \\(3\\)\nB. \\(2\\)\nC. \\(1\\)\nD. \\(0\\)"
+  },
+  {
+    "objectID": "index.html#question-21-finding-an-extremum-optimisation-ii",
+    "href": "index.html#question-21-finding-an-extremum-optimisation-ii",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.21 Question 21: Finding an Extremum (Optimisation) II",
+    "text": "6.21 Question 21: Finding an Extremum (Optimisation) II\nThe extremum of\n\\[\nf(x)=x^2-4x+7\n\\]\nis a\n\nA. local maximum\nB. local minimum"
+  },
+  {
+    "objectID": "index.html#question-22-optimisation-under-constraints",
+    "href": "index.html#question-22-optimisation-under-constraints",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.22 Question 22: Optimisation Under Constraints",
+    "text": "6.22 Question 22: Optimisation Under Constraints\nMaximise \\(f(x,y)=xy\\) subject to \\(x+y=10\\). The maximum occurs when:\n\nA. \\(x=0, y=10\\)\nB. \\(x=10, y=0\\)\nC. \\(x=5, y=5\\)\nD. \\(x=2, y=8\\)"
+  },
+  {
+    "objectID": "index.html#question-23-matrix-addition",
+    "href": "index.html#question-23-matrix-addition",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.23 Question 23: Matrix Addition",
+    "text": "6.23 Question 23: Matrix Addition\nLet\n\\[\nA=\\begin{pmatrix}1 & 2 \\\\ 3 & 4\\end{pmatrix}, \\quad\nB=\\begin{pmatrix}5 & 0 \\\\ -1 & 2\\end{pmatrix}\n\\]\nFind \\(A+B\\).\n\nA. \\(\\begin{pmatrix}5 & 2 \\\\ 2 & 6\\end{pmatrix}\\)\nB. \\(\\begin{pmatrix}6 & 2 \\\\ 4 & 6\\end{pmatrix}\\)\nC. \\(\\begin{pmatrix}6 & 2 \\\\ 2 & 6\\end{pmatrix}\\)\nD. \\(\\begin{pmatrix}6 & 0 \\\\ 2 & 6\\end{pmatrix}\\)"
+  },
+  {
+    "objectID": "index.html#question-24-matrix-multiplication",
+    "href": "index.html#question-24-matrix-multiplication",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.24 Question 24: Matrix Multiplication",
+    "text": "6.24 Question 24: Matrix Multiplication\nLet\n\\[\nA=\\begin{pmatrix}1 & 2 \\\\ 3 & 4\\end{pmatrix}, \\quad\nB=\\begin{pmatrix}2 \\\\ 1\\end{pmatrix}\n\\]\nFind \\(AB\\).\n\nA. \\(\\begin{pmatrix}3 \\\\ 7\\end{pmatrix}\\)\nB. \\(\\begin{pmatrix}4 \\\\ 10\\end{pmatrix}\\)\nC. \\(\\begin{pmatrix}2 \\\\ 6\\end{pmatrix}\\)\nD. \\(\\begin{pmatrix}5 \\\\ 11\\end{pmatrix}\\)"
+  },
+  {
+    "objectID": "index.html#question-25-determinant-of-a-22-matrix",
+    "href": "index.html#question-25-determinant-of-a-22-matrix",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.25 Question 25: Determinant of a 2×2 Matrix",
+    "text": "6.25 Question 25: Determinant of a 2×2 Matrix\nFind the determinant of\n\\[\nA=\\begin{pmatrix}2 & 3 \\\\ 1 & 4\\end{pmatrix}\n\\]\n\nA. \\(8\\)\nB. \\(5\\)\nC. \\(11\\)\nD. \\(-5\\)"
+  },
+  {
+    "objectID": "index.html#question-26-inverse-of-a-22-matrix",
+    "href": "index.html#question-26-inverse-of-a-22-matrix",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.26 Question 26: Inverse of a 2×2 Matrix",
+    "text": "6.26 Question 26: Inverse of a 2×2 Matrix\nLet\n\\[\nA=\\begin{pmatrix}1 & 2 \\\\ 3 & 4\\end{pmatrix}\n\\]\nThe inverse \\(A^{-1}\\) is:\n\nA. \\(\\begin{pmatrix}-2 & 1 \\\\ 3 & -\\frac{1}{2}\\end{pmatrix}\\)\nB. \\(\\begin{pmatrix}2 & -1 \\\\ -\\frac{3}{2} & \\frac{1}{2}\\end{pmatrix}\\)\nC. \\(\\begin{pmatrix}-1 & 2 \\\\ \\frac{3}{2} & -2\\end{pmatrix}\\)\nD. \\(\\begin{pmatrix}-2 & 1 \\\\ \\frac{3}{2} & -\\frac{1}{2}\\end{pmatrix}\\)"
+  },
+  {
+    "objectID": "index.html#question-27-determinant-and-invertibility",
+    "href": "index.html#question-27-determinant-and-invertibility",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.27 Question 27: Determinant and Invertibility",
+    "text": "6.27 Question 27: Determinant and Invertibility\nA matrix is invertible if:\n\nA. Its determinant is \\(1\\)\nB. It is symmetric\nC. Its determinant is non-zero\nD. Its determinant is \\(0\\)"
+  },
+  {
+    "objectID": "index.html#question-28-scalar-multiplication",
+    "href": "index.html#question-28-scalar-multiplication",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.28 Question 28: Scalar Multiplication",
+    "text": "6.28 Question 28: Scalar Multiplication\nLet\n\\[\nA=\\begin{pmatrix}1 & -2 \\\\ 3 & 0\\end{pmatrix}\n\\]\nFind \\(2A\\).\n\nA. \\(\\begin{pmatrix}2 & -4 \\\\ 6 & 0\\end{pmatrix}\\)\nB. \\(\\begin{pmatrix}2 & -4 \\\\ 3 & 0\\end{pmatrix}\\)\nC. \\(\\begin{pmatrix}1 & -4 \\\\ 6 & 0\\end{pmatrix}\\)\nD. \\(\\begin{pmatrix}2 & -2 \\\\ 3 & 0\\end{pmatrix}\\)"
+  },
+  {
+    "objectID": "index.html#question-29-identity-matrix",
+    "href": "index.html#question-29-identity-matrix",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.29 Question 29: Identity Matrix",
+    "text": "6.29 Question 29: Identity Matrix\nIf\n\\[\nA=\\begin{pmatrix}1 & 0 \\\\ 0 & 1\\end{pmatrix}\n\\]\nthen for any matrix \\(B\\), \\(AB=\\)\n\nA. \\(B\\)\nB. \\(A\\)\nC. \\(0\\)\nD. \\(BA^{-1}\\)"
+  },
+  {
+    "objectID": "index.html#question-30-properties-of-determinants",
+    "href": "index.html#question-30-properties-of-determinants",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.30 Question 30: Properties of Determinants",
+    "text": "6.30 Question 30: Properties of Determinants\nIf two rows of a matrix are identical, then its determinant is:\n\nA. \\(0\\)\nB. \\(1\\)\nC. \\(-1\\)\nD. undefined"
+  },
+  {
+    "objectID": "index.html#answers-maths-quiz",
+    "href": "index.html#answers-maths-quiz",
+    "title": "MSc Economics Starter Kit",
+    "section": "6.31 Answers Maths Quiz",
+    "text": "6.31 Answers Maths Quiz\n\n\n\n\n\n\nTipAnswer Key\n\n\n\n\n\n\nA\nC\nA\nD\nB\nA\nA\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nD\n\nB\n\nB\n\nB\n\nA\nB\nB\nC\n\nC\n\nB\nB\n\nD\n\nC\n\nA\n\nA\n\nA"
+  },
+  {
+    "objectID": "index.html#question-1-gdp-identity",
+    "href": "index.html#question-1-gdp-identity",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.1 Question 1: GDP identity",
+    "text": "7.1 Question 1: GDP identity\nThe GDP identity for an open economy (where \\(Y\\): GDP, \\(C\\): consumption, \\(G\\): government consumption, \\(I\\): investment, \\(M\\): imports, \\(X\\): exports) is:\n\nA. \\(Y = C + G + M - X\\)\nB. \\(Y = C + G + I + M - X\\)\nC. \\(Y = C + G + I + X - M\\)\nD. \\(Y = C + X - M\\)"
+  },
+  {
+    "objectID": "index.html#question-2-sectoral-balances",
+    "href": "index.html#question-2-sectoral-balances",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.2 Question 2: Sectoral balances",
+    "text": "7.2 Question 2: Sectoral balances\nUsing the definition of saving as disposable income not spent on consumption, \\(S = Y - T - C\\), where \\(T\\) are net tax payments, the GDP identity can be re-written as:\n\nA. \\((S - T) + (T - G) = (X - M)\\)\nB. \\((S - I) + (T - G) = (X - M)\\)\nC. \\((S - I) + (T - G) = (M - X)\\)\nD. \\((S - I) + (G - T) = (X - M)\\),\n\nwhere the terms in brackets represent net lending (borrowing) of the domestic private sector, the government, and the external balance."
+  },
+  {
+    "objectID": "index.html#question-3-real-wage",
+    "href": "index.html#question-3-real-wage",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.3 Question 3: Real wage",
+    "text": "7.3 Question 3: Real wage\nThe real wage is defined as:\n\nA. the fair wage\nB. the nominal wage minus the inflation rate\nC. the wage consistent with zero inflation\nD. the nominal wage divided by the price level"
+  },
+  {
+    "objectID": "index.html#question-4-government-budget-constraint",
+    "href": "index.html#question-4-government-budget-constraint",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.4 Question 4: Government budget constraint",
+    "text": "7.4 Question 4: Government budget constraint\nThe government’s budget constraint is given by \\(\\Delta B = G - T\\) (where \\(B\\): stock of government bonds, \\(G\\): government spending, \\(T\\): tax revenues).\nIf government spending is 1.2tn and tax revenue is 1.1tn, then:\n\nA. the budget deficit is 0.1tn\nB. the budget surplus is 0.1tn\nC. government debt is 0.1tn\nD. government debt decreases by 0.1tn"
+  },
+  {
+    "objectID": "index.html#question-5-cpi",
+    "href": "index.html#question-5-cpi",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.5 Question 5: CPI",
+    "text": "7.5 Question 5: CPI\nIf the consumer price index (CPI) decreases from 200 to 180, deflation is:\n\nA. 5%\nB. 10%\nC. 11%\nD. 20%"
+  },
+  {
+    "objectID": "index.html#question-6-unemployment-rate",
+    "href": "index.html#question-6-unemployment-rate",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.6 Question 6: Unemployment Rate",
+    "text": "7.6 Question 6: Unemployment Rate\nThe unemployment rate is calculated as:\n\nA. unemployed / population\nB. unemployed / labour force\nC. employed / population\nD. labour force / population"
+  },
+  {
+    "objectID": "index.html#question-7-neoclassical-theory-i",
+    "href": "index.html#question-7-neoclassical-theory-i",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.7 Question 7: Neoclassical Theory I",
+    "text": "7.7 Question 7: Neoclassical Theory I\nIn a neoclassical (or Classical) macroeconomic model, the real wage:\n\nA. is equal to the minimum wage\nB. is equal to the marginal product of labour\nC. is equal to the marginal product of capital\nD. is equal to the average product of labour"
+  },
+  {
+    "objectID": "index.html#question-8-neoclassical-theory-ii",
+    "href": "index.html#question-8-neoclassical-theory-ii",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.8 Question 8: Neoclassical Theory II",
+    "text": "7.8 Question 8: Neoclassical Theory II\nIn a neoclassical (or Classical) macroeconomic model, the real wage:\n\nA. clears the labour market (no unemployment)\nB. is rigid\nC. clears the goods market\nD. is always at the subsistence level"
+  },
+  {
+    "objectID": "index.html#question-9-neoclassical-theory-iii",
+    "href": "index.html#question-9-neoclassical-theory-iii",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.9 Question 9: Neoclassical Theory III",
+    "text": "7.9 Question 9: Neoclassical Theory III\nIn a neoclassical (or Classical) macroeconomic model, aggregate output is determined by:\n\nA. aggregate demand\nB. aggregate supply (via the production function)\nC. output maximisation\nD. the government"
+  },
+  {
+    "objectID": "index.html#question-10-quantity-theory-of-money",
+    "href": "index.html#question-10-quantity-theory-of-money",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.10 Question 10: Quantity Theory of Money",
+    "text": "7.10 Question 10: Quantity Theory of Money\nThe equation of exchange \\(M \\times V = P \\times Y\\) (where \\(M\\): quantity of money, \\(V\\): transaction velocity of money, \\(P\\): price level, \\(Y:\\) real output) is an identity that always holds.\nAccording to the Quantity Theory of Money, the causality runs from:\n\nA. \\(Y\\) to \\(P\\)\nB. \\(V\\) to \\(M\\)\nC. \\(Y\\) to \\(M\\)\nD. \\(M\\) to \\(P\\)"
+  },
+  {
+    "objectID": "index.html#question-11-loanable-funds-theory",
+    "href": "index.html#question-11-loanable-funds-theory",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.11 Question 11: Loanable Funds Theory",
+    "text": "7.11 Question 11: Loanable Funds Theory\nIn a closed economy without government, goods market equilibrium (defined as aggregate demand being equal to aggregate supply) requires \\(I=S\\). According to Loanable Funds Theory, this equilibrium is established by:\n\nA. the aggregate price level\nB. the real wage\nC. the interest rate\nD. output adjustment"
+  },
+  {
+    "objectID": "index.html#question-12-keynes",
+    "href": "index.html#question-12-keynes",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.12 Question 12: Keynes",
+    "text": "7.12 Question 12: Keynes\nAccording to John Maynard Keynes, prolonged periods of unemployment can occur because:\n\nA. real wages are too high\nB. aggregate demand may be insufficient to purchase the economy’s potential output\nC. labour productivity is too low\nD. too much government regulation of labour markets"
+  },
+  {
+    "objectID": "index.html#question-13-keynesian-theory-i",
+    "href": "index.html#question-13-keynesian-theory-i",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.13 Question 13: Keynesian Theory I",
+    "text": "7.13 Question 13: Keynesian Theory I\nIn a closed economy without government, goods market equilibrium (defined as aggregate demand being equal to aggregate supply) requires \\(I=S\\). According to Keynesian, this equilibrium is established by:\n\nA. the aggregate price level\nB. the real wage\nC. the interest rate\nD. output adjustment"
+  },
+  {
+    "objectID": "index.html#question-14-keynesian-theory-ii",
+    "href": "index.html#question-14-keynesian-theory-ii",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.14 Question 14: Keynesian Theory II",
+    "text": "7.14 Question 14: Keynesian Theory II\nSuppose aggregate demand in a closed economy without investment is given by: \\(Y = C + G\\). Suppose the consumption function is \\(C=c_0+c_1Y\\). Derive the effect of an increase in government spending \\(G\\) on equilibrium output. (Hint: you need to solve this system of equations for \\(Y^*\\) and then take the derivative of \\(Y^*\\) with respect to \\(G\\).)\n\nA. \\(\\frac{1}{1-c_1}\\)\nB. \\(\\frac{1}{1-c_0}\\)\nC. \\(\\frac{G}{1-c_1}\\)\nD. \\(\\frac{G}{1-c_0}\\)"
+  },
+  {
+    "objectID": "index.html#question-15-keynesian-theory-iii",
+    "href": "index.html#question-15-keynesian-theory-iii",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.15 Question 15: Keynesian Theory III",
+    "text": "7.15 Question 15: Keynesian Theory III\nAccording to Keynesian theory, what happens to the interest rate on securities (e.g. government bonds) when there is an increase in liquidity preference (i.e. an increase in the demand for money):\n\nA. interest rate decreases\nB. interest rate increases\nC. interest rate stays constant\nD. Keynesian theory does not make a prediction on this"
+  },
+  {
+    "objectID": "index.html#question-16-phillips-curve",
+    "href": "index.html#question-16-phillips-curve",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.16 Question 16: Phillips Curve",
+    "text": "7.16 Question 16: Phillips Curve\nThe Phillips Curve describes:\n\nA. a negative relationship between inflation and unemployment\nB. a positive relationship between inflation and unemployment\nC. a relationship between GDP and exports\nD. a relationship between interest rates and money supply"
+  },
+  {
+    "objectID": "index.html#question-17-monetary-policy",
+    "href": "index.html#question-17-monetary-policy",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.17 Question 17: Monetary Policy",
+    "text": "7.17 Question 17: Monetary Policy\nExpansionary monetary policy conducted by modern central banks means:\n\nA. raising of interest rates\nB. lowering of money supply\nC. lowering of interest rates\nD. increase of money supply"
+  },
+  {
+    "objectID": "index.html#question-18-bond-markets",
+    "href": "index.html#question-18-bond-markets",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.18 Question 18: Bond Markets",
+    "text": "7.18 Question 18: Bond Markets\nSuppose the price of government bonds go up. What happens to government bond yields?\n\nA. decrease\nB. increase\nC. stay constant\nD. there is no relationship between bond prices and bond yields"
+  },
+  {
+    "objectID": "index.html#question-19-commercial-bank-balance-sheet",
+    "href": "index.html#question-19-commercial-bank-balance-sheet",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.19 Question 19: Commercial Bank Balance Sheet",
+    "text": "7.19 Question 19: Commercial Bank Balance Sheet\nWhich items are on the asset side of a typical commercial bank balance sheet?\n\nA. Equity, deposits\nB. Reserves, loans to customers\nC. Deposits, loans to customers\nD. Reserves, deposits"
+  },
+  {
+    "objectID": "index.html#question-20-central-bank-balance-sheet",
+    "href": "index.html#question-20-central-bank-balance-sheet",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.20 Question 20: Central Bank Balance Sheet",
+    "text": "7.20 Question 20: Central Bank Balance Sheet\nWhich items are on the liability side of a typical central bank balance sheet?\n\nA. Loans to commercial banks, government bonds\nB. Government bonds, reserves of commercial banks\nC. Cash in circulation, Loans to commercial banks\nD. Cash in circulation, reserves of commercial banks"
+  },
+  {
+    "objectID": "index.html#answers-macro-quiz",
+    "href": "index.html#answers-macro-quiz",
+    "title": "MSc Economics Starter Kit",
+    "section": "7.21 Answers Macro Quiz",
+    "text": "7.21 Answers Macro Quiz\n\n\n\n\n\n\nTipAnswer Key\n\n\n\n\n\n\nC\n\nB\n\nD\n\nA\n\nB\n\nB\n\nB\n\nA\n\nB\n\nD\n\nC\n\nB\nD\n\nA\n\nB\n\nA\n\nC\nA\n\nB\n\nD"
+  },
+  {
+    "objectID": "index.html#question-1.-budget-constraints",
+    "href": "index.html#question-1.-budget-constraints",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.1 Question 1. Budget Constraints",
+    "text": "8.1 Question 1. Budget Constraints\nA consumer faces a price of £5 for Good \\(X\\) and £10 for Good \\(Y\\), with an income of £100. If the government imposes a 20% tax on Good \\(X\\) and gives the consumer a £20 cash transfer, what is the new budget constraint equation?\n\n\n\\(5x + 10y = 120\\)\n\n\n\\(6x + 10y = 120\\)\n\n\n\\(6x + 12y = 120\\)\n\n\n\\(6x + 10y = 100\\)"
+  },
+  {
+    "objectID": "index.html#question-2.-indifference-curves-and-marginal-rate-of-substitution-mrs",
+    "href": "index.html#question-2.-indifference-curves-and-marginal-rate-of-substitution-mrs",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.2 Question 2. Indifference Curves and Marginal Rate of Substitution (MRS)",
+    "text": "8.2 Question 2. Indifference Curves and Marginal Rate of Substitution (MRS)\nWhy do standard indifference curves typically exhibit a diminishing marginal rate of substitution (\\(MRS\\))?\n\n\nBecause consumers always prefer extreme bundles to balanced consumption bundles.\n\n\nBecause as a consumer has more of Good \\(X\\), they are willing to give up increasingly more of Good \\(Y\\) to get an extra unit of \\(X\\).\n\n\nBecause of the assumption of non-satiation (more is always better).\n\n\nBecause consumers experience a diminishing marginal utility for a good as they consume more of it."
+  },
+  {
+    "objectID": "index.html#question-3.-utility-maximization",
+    "href": "index.html#question-3.-utility-maximization",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.3 Question 3. Utility Maximization",
+    "text": "8.3 Question 3. Utility Maximization\nA consumer has the utility function \\(U(x, y) = xy\\). If the price of \\(x\\) is \\(P_x\\), the price of \\(y\\) is \\(P_y\\), and income is \\(M\\), what is the optimal demand function for good \\(x\\)?\n\n\n\\(x^* = \\frac{M}{2P_x}\\)\n\n\n\\(x^* = \\frac{M}{P_x}\\)\n\n\n\\(x^* = \\frac{2M}{P_x}\\)\n\n\n\\(x^* = \\frac{M}{P_x + P_y}\\)"
+  },
+  {
+    "objectID": "index.html#question-4.-income-and-substitution-effects",
+    "href": "index.html#question-4.-income-and-substitution-effects",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.4 Question 4. Income and Substitution Effects",
+    "text": "8.4 Question 4. Income and Substitution Effects\nWhen the price of a normal good falls, how do the substitution effect (SE) and income effect (IE) operate?\n\n\nSE increases quantity demanded; IE decreases quantity demanded.\n\n\nSE decreases quantity demanded; IE increases quantity demanded.\n\n\nBoth SE and IE act to increase the quantity demanded.\n\n\nBoth SE and IE act to decrease the quantity demanded."
+  },
+  {
+    "objectID": "index.html#question-5.-inferior-and-giffen-goods",
+    "href": "index.html#question-5.-inferior-and-giffen-goods",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.5 Question 5. Inferior and Giffen Goods",
+    "text": "8.5 Question 5. Inferior and Giffen Goods\nWhich of the following statements correctly describes a Giffen good?\n\n\nThe substitution effect is stronger than the income effect, and the good is normal.\n\n\nThe income effect is negative and strictly stronger than the substitution effect.\n\n\nThe income effect is positive and strictly stronger than the substitution effect.\n\n\nThe income effect and substitution effect perfectly cancel each other out."
+  },
+  {
+    "objectID": "index.html#question-6.-consumer-surplus",
+    "href": "index.html#question-6.-consumer-surplus",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.6 Question 6. Consumer Surplus",
+    "text": "8.6 Question 6. Consumer Surplus\nIf a perfectly competitive market becomes monopolized, what happens to consumer surplus and deadweight loss?\n\n\nConsumer surplus increases, and deadweight loss increases.\n\n\nConsumer surplus decreases, and deadweight loss decreases.\n\n\nConsumer surplus decreases, and deadweight loss increases.\n\n\nConsumer surplus increases, and deadweight loss decreases."
+  },
+  {
+    "objectID": "index.html#question-7.-intertemporal-choice",
+    "href": "index.html#question-7.-intertemporal-choice",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.7 Question 7. Intertemporal Choice",
+    "text": "8.7 Question 7. Intertemporal Choice\nAn individual lives for two periods, earning an income of \\(M_1\\) in Period 1 and \\(M_2\\) in Period 2. They can borrow or save at a market interest rate of \\(r\\). What is the absolute slope of their intertemporal budget line when Period 2 consumption (\\(C_2\\)) is plotted on the vertical axis and Period 1 consumption (\\(C_1\\)) is plotted on the horizontal axis?\n\n\n\\(\\frac{1}{1+r}\\)\n\n\n\\(1 + r\\)\n\n\n\\(r\\)\n\n\n\\(\\frac{M_2}{M_1}\\)"
+  },
+  {
+    "objectID": "index.html#question-8.-returns-to-scale",
+    "href": "index.html#question-8.-returns-to-scale",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.8 Question 8. Returns to Scale",
+    "text": "8.8 Question 8. Returns to Scale\nA production function is given by \\(Q = 2L^{0.6}K^{0.4}\\). If both labor (\\(L\\)) and capital (\\(K\\)) are doubled, what happens to output (\\(Q\\))?\n\n\nOutput exactly doubles (Constant Returns to Scale).\n\n\nOutput more than doubles (Increasing Returns to Scale).\n\n\nOutput increases but less than doubles (Decreasing Returns to Scale).\n\n\nOutput remains exactly the same."
+  },
+  {
+    "objectID": "index.html#question-9.-cost-minimization",
+    "href": "index.html#question-9.-cost-minimization",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.9 Question 9. Cost Minimization",
+    "text": "8.9 Question 9. Cost Minimization\nA firm minimizes its costs for a target output level when which of the following conditions is met?\n(Note: \\(MP_L\\) and \\(MP_K\\) represent the Marginal Product of labor and capital, respectively; \\(w\\) represents the wage rate of labor; and \\(r\\) represents the rental rate of capital).\n\n\n\\(MP_L = MP_K\\)\n\n\n\\(\\frac{MP_L}{r} = \\frac{MP_K}{w}\\)\n\n\n\\(\\frac{MP_L}{w} = \\frac{MP_K}{r}\\)\n\n\n\\(w \\cdot L = r \\cdot K\\)"
+  },
+  {
+    "objectID": "index.html#question-10.-profit-maximization",
+    "href": "index.html#question-10.-profit-maximization",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.10 Question 10. Profit Maximization",
+    "text": "8.10 Question 10. Profit Maximization\nFor a perfectly competitive, price-taking firm, why does the general profit-maximizing condition \\(MR = MC\\) simplify down to \\(P = MC\\)?\n\n\nBecause the firm can change its price at will to match costs.\n\n\nBecause the firm faces a perfectly elastic demand curve, meaning the market price is constant for any quantity they sell.\n\n\nBecause the firm experiences constant returns to scale at all levels of output.\n\n\nBecause total cost is always equal to total revenue in competition."
+  },
+  {
+    "objectID": "index.html#question-11.-market-equilibria",
+    "href": "index.html#question-11.-market-equilibria",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.11 Question 11. Market Equilibria",
+    "text": "8.11 Question 11. Market Equilibria\nSuppose a competitive market is initially in long-run equilibrium. If the government introduces a specific per-unit tax paid by consumers, what is the ultimate long-run effect on the price received by producers and the number of firms in the industry, assuming a constant-cost industry?\n\n\nThe price received by producers falls; the number of firms decreases.\n\n\nThe price received by producers remains unchanged; the number of firms decreases.\n\n\nThe price received by producers remains unchanged; the number of firms remains unchanged.\n\n\nThe price received by producers falls; the number of firms remains unchanged."
+  },
+  {
+    "objectID": "index.html#question-12.-corner-solutions-and-consumer-optimization",
+    "href": "index.html#question-12.-corner-solutions-and-consumer-optimization",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.12 Question 12. Corner Solutions and Consumer Optimization",
+    "text": "8.12 Question 12. Corner Solutions and Consumer Optimization\nSketch Exercise: On a clean grid, sketch a standard downward-sloping linear budget line. Now, draw a map of downward-sloping linear indifference curves representing perfect substitutes, making your indifference curves strictly steeper than the budget line you drew.\nBased on your visual map, if the absolute slope of these indifference curves (\\(MRS_{xy}\\)) is strictly greater than the absolute slope of the budget line (\\(\\frac{P_x}{P_y}\\)), where must the utility-maximizing allocation mathematically lie?\n\n\nAt an interior tangency bundle containing positive amounts of both goods.\n\n\nAt a corner solution along the vertical axis, consuming exclusively Good Y \\((0, M/P_y)\\).\n\n\nAt a corner solution along the horizontal axis, consuming exclusively Good X \\((M/P_x, 0)\\).\n\n\nThe problem has no solution since standard optimization conditions fail."
+  },
+  {
+    "objectID": "index.html#question-13.-production-and-isocost-shifts",
+    "href": "index.html#question-13.-production-and-isocost-shifts",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.13 Question 13. Production and Isocost Shifts",
+    "text": "8.13 Question 13. Production and Isocost Shifts\nSketch Exercise: Sketch a standard, smoothly curved Isoquant representing a fixed target output level. Tangent to this, draw a straight, downward-sloping Isocost line. Now, sketch a second Isocost line that is strictly flatter than your first one.\nIf a macroeconomic shock causes a firm’s Isocost line (\\(\\frac{w}{r}\\)) to flatten in this manner, how must the firm adjust its input mix along your smooth convex Isoquant to minimize long-run costs?\n\n\nThe wage rate has risen relative to capital, prompting a substitution toward more Capital (\\(K\\)).\n\n\nThe wage rate has fallen relative to capital, prompting a substitution toward more Labor (\\(L\\)).\n\n\nThe firm will scale back both capital and labor evenly due to increasing returns.\n\n\nInput ratios remain entirely fixed because price changes do not change technological constraints."
+  },
+  {
+    "objectID": "index.html#question-14.-non-convex-preferences",
+    "href": "index.html#question-14.-non-convex-preferences",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.14 Question 14. Non-Convex Preferences",
+    "text": "8.14 Question 14. Non-Convex Preferences\nImagine a consumer whose indifference curves are structurally concave to the origin (bowed outward), while the budget line remains a standard straight downward-sloping constraint intersecting both axes at 10 units. Where must the optimal consumer choice reside?\n\n\nAt the exact interior midpoint, purchasing 5 units of X and 5 units of Y.\n\n\nAt an interior point where the \\(MRS\\) equals the price ratio.\n\n\nAt an all-or-nothing corner solution on one of the two axes, depending on which boundary sits on a higher curve.\n\n\nAt any coordinate along the budget line, as utility is completely identical across concave bounds."
+  },
+  {
+    "objectID": "index.html#question-15.-risk-preferences-and-expected-utility",
+    "href": "index.html#question-15.-risk-preferences-and-expected-utility",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.15 Question 15. Risk Preferences and Expected Utility",
+    "text": "8.15 Question 15. Risk Preferences and Expected Utility\nA consumer has a utility function over wealth given by \\(u(w) = \\sqrt{w}\\). They are offered a gamble where they have a 50% chance of winning £100 and a 50% chance of winning £0. Which of the following statements correctly identifies their risk preference and their expected utility from this gamble?\n\n\nRisk-neutral; Expected Utility = 5\n\n\nRisk-averse; Expected Utility = 5\n\n\nRisk-seeking; Expected Utility = 10\n\n\nRisk-averse; Expected Utility = 50"
+  },
+  {
+    "objectID": "index.html#question-16.-the-certainty-equivalent",
+    "href": "index.html#question-16.-the-certainty-equivalent",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.16 Question 16. The Certainty Equivalent",
+    "text": "8.16 Question 16. The Certainty Equivalent\nUsing the same consumer preferences (\\(u(w) = \\sqrt{w}\\)) and gamble from the previous question (50% chance of £100, 50% chance of £0), what is the consumer’s Certainty Equivalent (\\(CE\\)) for this gamble?\n\n\n£50\n\n\n£25\n\n\n£10\n\n\n£0"
+  },
+  {
+    "objectID": "index.html#question-17.-risk-premium",
+    "href": "index.html#question-17.-risk-premium",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.17 Question 17. Risk Premium",
+    "text": "8.17 Question 17. Risk Premium\nAn individual with initial wealth of £100 faces a 10% chance of losing £64 due to an accident, leaving them with £36. Their utility function is \\(u(w) = \\ln(w)\\). If a perfectly competitive, actuarially fair insurance company offers a policy to fully cover this risk, the premium charged will exactly equal the expected loss. What is the maximum amount this risk-averse individual would theoretically be willing to pay for this full insurance policy?\n\n\nExactly £6.40\n\n\nLess than £6.40\n\n\nGreater than £6.40\n\n\n£0, because the risk of loss is too small to insure."
+  },
+  {
+    "objectID": "index.html#question-18.-intertemporal-choice-borrowing-constraints",
+    "href": "index.html#question-18.-intertemporal-choice-borrowing-constraints",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.18 Question 18. Intertemporal Choice (Borrowing Constraints)",
+    "text": "8.18 Question 18. Intertemporal Choice (Borrowing Constraints)\nA consumer earns a high income in Period 2 (\\(M_2\\)) but zero income in Period 1 (\\(M_1 = 0\\)). They have standard, smoothly curved convex intertemporal preferences and wish to consume a positive amount in both periods. If the credit market breaks down completely and banks refuse to offer any consumption loans, how will this borrowing constraint impact their optimal choice bundle \\((C_1, C_2)\\)?\n\n\nThey will experience a corner solution where \\(C_1 = 0\\) and \\(C_2 = M_2\\).\n\n\nThey will borrow against \\(M_2\\) at a shadow interest rate, keeping \\(C_1 &gt; 0\\).\n\n\nThey will consume a balanced bundle where \\(C_1 = C_2 = \\frac{M_2}{2}\\).\n\n\nThey will choose to save a portion of their Period 1 income for the future."
+  },
+  {
+    "objectID": "index.html#question-19.-market-equilibria-subsidy-incidence",
+    "href": "index.html#question-19.-market-equilibria-subsidy-incidence",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.19 Question 19. Market Equilibria (Subsidy Incidence)",
+    "text": "8.19 Question 19. Market Equilibria (Subsidy Incidence)\nThe government introduces a specific per-unit cash subsidy paid directly to suppliers in a perfectly competitive market. If the price elasticity of demand is highly inelastic (\\(|\\epsilon_D| \\to 0\\)) and the price elasticity of supply is highly elastic (\\(\\epsilon_S \\to \\infty\\)), who captures the economic benefit of this subsidy?\n\n\nProducers capture the entire benefit via significantly higher profit margins per unit.\n\n\nConsumers capture the entire benefit via a price drop that matches the full size of the subsidy.\n\n\nThe subsidy benefit is split equally between consumers and producers regardless of elasticities.\n\n\nNeither party benefits because subsidies always generate deadweight loss that destroys all value."
+  },
+  {
+    "objectID": "index.html#question-20.-market-equilibria-externalities-and-quotas",
+    "href": "index.html#question-20.-market-equilibria-externalities-and-quotas",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.20 Question 20. Market Equilibria (Externalities and Quotas)",
+    "text": "8.20 Question 20. Market Equilibria (Externalities and Quotas)\nA perfectly competitive market generates a negative production externality (e.g., pollution) for every unit of output produced, causing the Social Marginal Cost (\\(SMC\\)) to sit strictly above the Private Marginal Cost (\\(PMC\\)). If the government wants to restore allocative efficiency, it can implement an output quota. To achieve the socially optimal equilibrium, where should this quota be set?\n\n\nAt the exact quantity where the market demand curve intersects the Private Marginal Cost (\\(PMC\\)) curve.\n\n\nAt a quantity of zero, completely banning the production of the good.\n\n\nAt the exact quantity where the market demand curve intersects the Social Marginal Cost (\\(SMC\\)) curve.\n\n\nAt a level higher than the competitive equilibrium quantity to generate offsetting tax revenues."
+  },
+  {
+    "objectID": "index.html#answers-micro-quiz",
+    "href": "index.html#answers-micro-quiz",
+    "title": "MSc Economics Starter Kit",
+    "section": "8.21 Answers Micro Quiz",
+    "text": "8.21 Answers Micro Quiz\n\n\n\n\n\n\nTipAnswer Key\n\n\n\n\n\n\nB\nD\nA\nC\nB\nC\nB\nA\nC\nB\nB\nC\nB\nC\nB\nB\nC\nA\nB\nC"
+  },
+  {
+    "objectID": "index.html#question-1-expected-value",
+    "href": "index.html#question-1-expected-value",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.1 Question 1: Expected Value",
+    "text": "9.1 Question 1: Expected Value\nA random variable \\(X\\) takes values \\(1,2,3\\) with probabilities \\(0.2,0.3,0.5\\). Compute \\(E(X)\\).\n\nA. \\(2.3\\)\nB. \\(2.0\\)\nC. \\(2.5\\)\nD. \\(1.8\\)"
+  },
+  {
+    "objectID": "index.html#question-2-variance",
+    "href": "index.html#question-2-variance",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.2 Question 2: Variance",
+    "text": "9.2 Question 2: Variance\nSuppose you have the following data: \\(1,2,3\\)\nCompute the variance using:\n\\[\n\\mathrm{Var}(X)=\\frac{1}{n}\\sum_{i=1}^{n}(x_i-\\bar{x})^2\n\\]\n\nA. \\(\\frac{2}{3}\\)\nB. \\(1\\)\nC. \\(2\\)\nD. \\(\\frac{1}{2}\\)"
+  },
+  {
+    "objectID": "index.html#question-3-standard-deviation",
+    "href": "index.html#question-3-standard-deviation",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.3 Question 3: Standard Deviation",
+    "text": "9.3 Question 3: Standard Deviation\nIf \\(\\mathrm{Var}(X)=1\\), then the standard deviation \\(\\sigma\\) is:\n\nA. \\(0\\)\nB. \\(1\\)\nC. \\(2\\)\nD. \\(0.5\\)"
+  },
+  {
+    "objectID": "index.html#question-4-independent-events",
+    "href": "index.html#question-4-independent-events",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.4 Question 4: Independent Events",
+    "text": "9.4 Question 4: Independent Events\nIf \\(P(A)=\\frac{1}{2}\\) and \\(P(B)=\\frac{1}{3}\\), find the intersection of both events \\(P(A\\cap B)\\).\n\nA. \\(\\frac{1}{6}\\)\nB. \\(\\frac{2}{5}\\)\nC. \\(\\frac{1}{3}\\)\nD. \\(\\frac{5}{6}\\)"
+  },
+  {
+    "objectID": "index.html#question-5-conditional-probability",
+    "href": "index.html#question-5-conditional-probability",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.5 Question 5: Conditional Probability",
+    "text": "9.5 Question 5: Conditional Probability\nIf \\(P(A\\cap B)=\\frac{1}{4}\\) and \\(P(B)=\\frac{1}{2}\\), find \\(P(A|B)\\).\n\nA. \\(\\frac{1}{2}\\)\nB. \\(\\frac{1}{4}\\)\nC. \\(\\frac{1}{8}\\)\nD. \\(1\\)"
+  },
+  {
+    "objectID": "index.html#question-6-probability-of-at-least-one-success",
+    "href": "index.html#question-6-probability-of-at-least-one-success",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.6 Question 6: Probability of At Least One Success",
+    "text": "9.6 Question 6: Probability of At Least One Success\nSuppose the probability of getting rejected when asking someone for their phone number is 0.8. What is the probability of getting at least 1 phone number after having made 5 attempts?\n\nA. \\(0.8^5\\)\nB. \\((1-0.8)^5\\)\nC. \\(1-0.8^5\\)\nD. \\(0.8\\times5\\)"
+  },
+  {
+    "objectID": "index.html#question-7-covariance",
+    "href": "index.html#question-7-covariance",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.7 Question 7: Covariance",
+    "text": "9.7 Question 7: Covariance\nThe covariance \\(\\mathrm{Cov}(3+X,2Y)\\) is:\n\nA. \\(\\mathrm{Cov}(X,Y)\\)\nB. \\(3+\\mathrm{Cov}(X,Y)\\)\nC. \\(2\\mathrm{Cov}(X,Y)\\)\nD. \\(3+2\\mathrm{Cov}(X,Y)\\)"
+  },
+  {
+    "objectID": "index.html#question-8-correlation",
+    "href": "index.html#question-8-correlation",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.8 Question 8: Correlation",
+    "text": "9.8 Question 8: Correlation\nIf \\(Y=3X\\), then the correlation coefficient \\(r\\) is:\n\nA. \\(0\\)\nB. \\(1\\)\nC. \\(-1\\)\nD. \\(3\\)"
+  },
+  {
+    "objectID": "index.html#question-9-properties-of-estimators",
+    "href": "index.html#question-9-properties-of-estimators",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.9 Question 9: Properties of Estimators",
+    "text": "9.9 Question 9: Properties of Estimators\nAn estimator is unbiased if:\n\nA. It always equals the sample value\nB. Its expected value equals the population parameter\nC. Its variance is zero\nD. It is based on large samples only"
+  },
+  {
+    "objectID": "index.html#question-10-law-of-large-numbers",
+    "href": "index.html#question-10-law-of-large-numbers",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.10 Question 10: Law of Large Numbers",
+    "text": "9.10 Question 10: Law of Large Numbers\nAs sample size increases, the sample mean:\n\nA. Moves away from the population mean\nB. Becomes more variable\nC. Converges to the population mean\nD. Becomes equal to zero"
+  },
+  {
+    "objectID": "index.html#question-11-confidence-interval",
+    "href": "index.html#question-11-confidence-interval",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.11 Question 11: Confidence Interval",
+    "text": "9.11 Question 11: Confidence Interval\nA 95% confidence interval means:\n\nA. There is a 95% probability the parameter is in the interval\nB. 95% of sample values lie in the interval\nC. 95% of such constructed intervals contain the true parameter\nD. The parameter changes over repeated samples"
+  },
+  {
+    "objectID": "index.html#question-12-width-of-confidence-interval",
+    "href": "index.html#question-12-width-of-confidence-interval",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.12 Question 12: Width of Confidence Interval",
+    "text": "9.12 Question 12: Width of Confidence Interval\nA confidence interval becomes wider when the:\n\nA. Sample size increases\nB. Standard deviation decreases\nC. Sample mean increases\nD. Chosen confidence level increases"
+  },
+  {
+    "objectID": "index.html#question-13-hypothesis-testing",
+    "href": "index.html#question-13-hypothesis-testing",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.13 Question 13: Hypothesis Testing",
+    "text": "9.13 Question 13: Hypothesis Testing\nThe purpose of a hypothesis test is to:\n\nA. Prove the null hypothesis\nB. Estimate a parameter exactly\nC. Assess evidence against a claim about a population parameter\nD. Eliminate sampling error"
+  },
+  {
+    "objectID": "index.html#question-14-null-hypothesis",
+    "href": "index.html#question-14-null-hypothesis",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.14 Question 14: Null Hypothesis",
+    "text": "9.14 Question 14: Null Hypothesis\nThe null hypothesis typically represents:\n\nA. A new effect or change\nB. No effect or status quo\nC. A biased sample\nD. The sample mean"
+  },
+  {
+    "objectID": "index.html#question-15-type-i-error",
+    "href": "index.html#question-15-type-i-error",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.15 Question 15: Type I Error",
+    "text": "9.15 Question 15: Type I Error\nA Type I error occurs when we:\n\nA. Fail to reject a false null hypothesis\nB. Reject a true null hypothesis\nC. Accept a false alternative hypothesis\nD. Increase sample size incorrectly"
+  },
+  {
+    "objectID": "index.html#question-16-significance-level",
+    "href": "index.html#question-16-significance-level",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.16 Question 16: Significance Level",
+    "text": "9.16 Question 16: Significance Level\nIf \\(\\alpha = 0.01\\), this represents:\n\nA. 1% chance of Type II error\nB. 1% chance of rejecting a true null hypothesis\nC. 99% confidence interval width\nD. 1% probability the alternative is true"
+  },
+  {
+    "objectID": "index.html#question-17-p-value-i",
+    "href": "index.html#question-17-p-value-i",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.17 Question 17: p-value I",
+    "text": "9.17 Question 17: p-value I\nWhich statement correctly describes a p-value?\n\nA. The probability that the null hypothesis is true\nB. The probability that the alternative hypothesis is true\nC. The probability of observing results at least as extreme as in the sample, assuming the null hypothesis is true\nD. The probability that the sample is biased"
+  },
+  {
+    "objectID": "index.html#question-18-p-value-ii",
+    "href": "index.html#question-18-p-value-ii",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.18 Question 18: p-value II",
+    "text": "9.18 Question 18: p-value II\nA small p-value indicates:\n\nA. Strong evidence against the null hypothesis\nB. Strong evidence for the null hypothesis\nC. The null hypothesis is true\nD. The sample is biased"
+  },
+  {
+    "objectID": "index.html#question-19-simple-linear-regression",
+    "href": "index.html#question-19-simple-linear-regression",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.19 Question 19: Simple Linear Regression",
+    "text": "9.19 Question 19: Simple Linear Regression\nIn the model \\[\ny = \\beta_0 + \\beta_1 x + u\n\\] the coefficient \\(\\beta_1\\) represents:\n\nA. The value of \\(y\\) when \\(x=0\\)\nB. The change in \\(y\\) for a one-unit change in \\(x\\)\nC. The average value of \\(x\\)\nD. The error term"
+  },
+  {
+    "objectID": "index.html#question-20-residuals",
+    "href": "index.html#question-20-residuals",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.20 Question 20: Residuals",
+    "text": "9.20 Question 20: Residuals\nThe residuals \\(u\\) are defined as:\n\nA. \\(y - \\bar{y}\\)\nB. \\(\\hat{y} - y\\)\nC. \\(y - \\hat{y}\\)\nD. \\(\\beta_0 + \\beta_1 x\\)"
+  },
+  {
+    "objectID": "index.html#question-21-ordinary-least-squares-ols",
+    "href": "index.html#question-21-ordinary-least-squares-ols",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.21 Question 21: Ordinary Least Squares (OLS)",
+    "text": "9.21 Question 21: Ordinary Least Squares (OLS)\nThe OLS estimator chooses coefficients that:\n\nA. Minimise the sum of squared residuals\nB. Maximise the sum of residuals\nC. Make all residuals equal\nD. Set residuals to zero for all observations"
+  },
+  {
+    "objectID": "index.html#question-22-goodness-of-fit-i",
+    "href": "index.html#question-22-goodness-of-fit-i",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.22 Question 22: Goodness of Fit I",
+    "text": "9.22 Question 22: Goodness of Fit I\nThe \\(R^2\\) statistic measures:\n\nA. The slope of the regression line\nB. The proportion of variation in \\(y\\) explained by the model\nC. The variance of the error term\nD. The correlation between \\(x\\) and \\(u\\)"
+  },
+  {
+    "objectID": "index.html#question-23-goodness-of-fit-ii",
+    "href": "index.html#question-23-goodness-of-fit-ii",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.23 Question 23: Goodness of Fit II",
+    "text": "9.23 Question 23: Goodness of Fit II\nIf \\(R^2 = 1\\), then:\n\nA. The model explains none of the variation in \\(y\\)\nB. All points lie exactly on the regression line\nC. The slope must be zero\nD. The intercept must be zero"
+  },
+  {
+    "objectID": "index.html#question-24-properties-of-ols",
+    "href": "index.html#question-24-properties-of-ols",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.24 Question 24: Properties of OLS",
+    "text": "9.24 Question 24: Properties of OLS\nUnder the classical assumptions, the OLS estimator is:\n\nA. Biased but consistent\nB. Unbiased\nC. Always equal to sample means\nD. Always negative"
+  },
+  {
+    "objectID": "index.html#question-25-endogeneity",
+    "href": "index.html#question-25-endogeneity",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.25 Question 25: Endogeneity",
+    "text": "9.25 Question 25: Endogeneity\nA regressor is endogenous if:\n\nA. It is independent of the error term\nB. It is correlated with the error term\nC. It has zero variance\nD. It is not normally distributed"
+  },
+  {
+    "objectID": "index.html#question-26-omitted-variable-bias",
+    "href": "index.html#question-26-omitted-variable-bias",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.26 Question 26: Omitted Variable Bias",
+    "text": "9.26 Question 26: Omitted Variable Bias\nOmitted variable bias occurs when:\n\nA. A relevant variable is included in the regression\nB. An irrelevant variable is included\nC. A relevant variable is excluded that is correlated with the regressors\nD. A relevant variable is excluded"
+  },
+  {
+    "objectID": "index.html#question-27-multicollinearity",
+    "href": "index.html#question-27-multicollinearity",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.27 Question 27: Multicollinearity",
+    "text": "9.27 Question 27: Multicollinearity\nPerfect multicollinearity occurs when:\n\nA. The error term has zero mean\nB. One regressor is an exact linear combination of others\nC. The dependent variable is constant\nD. The model has no intercept"
+  },
+  {
+    "objectID": "index.html#question-28-interpretation-of-intercept",
+    "href": "index.html#question-28-interpretation-of-intercept",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.28 Question 28: Interpretation of Intercept",
+    "text": "9.28 Question 28: Interpretation of Intercept\nIn the model \\(y = \\beta_0 + \\beta_1 x + u\\), \\(\\beta_0\\) is:\n\nA. The change in \\(y\\) when \\(x\\) changes\nB. The value of \\(y\\) when \\(x=0\\)\nC. The slope of the regression line\nD. The variance of \\(y\\)"
+  },
+  {
+    "objectID": "index.html#question-29-correlation-vs-causation",
+    "href": "index.html#question-29-correlation-vs-causation",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.29 Question 29: Correlation vs Causation",
+    "text": "9.29 Question 29: Correlation vs Causation\nA high correlation between \\(x\\) and \\(y\\) implies:\n\nA. \\(x\\) causes \\(y\\)\nB. \\(y\\) causes \\(x\\)\nC. No causal interpretation is guaranteed\nD. The model is correctly specified"
+  },
+  {
+    "objectID": "index.html#question-30-nonlinearities",
+    "href": "index.html#question-30-nonlinearities",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.30 Question 30: Nonlinearities",
+    "text": "9.30 Question 30: Nonlinearities\nWhich of the following regression models is nonlinear in parameters (and hence cannot be estimated by OLS)?\n\nA. \\(y = \\beta_0 + \\beta_1 x + u\\)\nB. \\(y = \\beta_0 + \\beta_1 x^2 + u\\)\nC. \\(y = \\beta_0 + \\beta_1 \\ln(x) + u\\)\nD. \\(y = \\beta_0 + x^{\\beta_1} + u\\)"
+  },
+  {
+    "objectID": "index.html#answers-statistics-econometrics-quiz",
+    "href": "index.html#answers-statistics-econometrics-quiz",
+    "title": "MSc Economics Starter Kit",
+    "section": "9.31 Answers Statistics & Econometrics Quiz",
+    "text": "9.31 Answers Statistics & Econometrics Quiz\n\n\n\n\n\n\nTipAnswer Key\n\n\n\n\n\n\nA\n\nA\n\nB\n\nA\n\nA\n\nC\n\nC\n\nB\n\nB\n\nC\n\nC\n\nD\n\nC\n\nB\n\nB\n\nB\n\nC\nA\nB\n\nC\n\nA\n\nB\n\nB\n\nB\n\nB\n\nC\n\nB\n\nB\n\nC\n\nD"
+  }
+]
