@@ -7,7 +7,7 @@ format:
     #  theme: moon
     #  incremental: false
     #  transition: none
-      smaller: true
+    #  smaller: true
    #   progress: true
       toc: true
       number-sections: true
@@ -117,6 +117,7 @@ Simplify
 $$
 \frac{a^{m+2}a^{n-1}}{a^{m+n}}.
 $$
+
 - A. $a^{-1}$
 - B. $a^2$
 - C. $a$
@@ -1331,6 +1332,8 @@ Which of the following regression models is **nonlinear in parameters** (and hen
 28. B  
 29. C  
 30. D
+
 :::
+
 
 # References
