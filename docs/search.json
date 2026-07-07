@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "MSc Economics Starter Kit",
     "section": "",
-    "text": "This document provides resources to prepare for the MSc Economics programme at the University of Leeds. It outlines the prior knowledge assumed in the core modules of the programme. References are given to help you refresh your knowledge and address any gaps before the programme begins. The document also provides a set of multiple choice quizzes to test your knowledge and identify any gaps. Incoming students are strongly encouraged to review the material listed below before commencing their studies.\n\n\n\n\n\nOverview\nMathematics Quiz\n\n\n\n\n\nOverview\nMacroeconomics Quiz\n\n\n\n\n\nOverview\nMicroeconomics Quiz\n\n\n\n\n\nOverview\nStatistics & Econometrics Quiz",
+    "text": "This document provides resources to prepare for the MSc Economics programme at the University of Leeds. It outlines the prior knowledge assumed in the core modules of the programme. References are given to help you refresh your knowledge and address any gaps before the programme begins. The document also provides a set of multiple choice quizzes to test your knowledge and identify any gaps. Incoming students are strongly encouraged to review the material listed below before commencing their studies.\n\n\n\nMathematics & Statistics\nMacroeconomics\nMicroeconomics\nEconometrics",
     "crumbs": [
       "Home"
     ]
@@ -745,7 +745,7 @@
     "text": "this quiz tests elementary statistics and econometrics knowledge you should be familiar with from your previous degree\nyou should be able to answer the question with pen and paper only and without any external help (no calculator, no internet, no AI)\ngive it a go!\ncheck the solutions only after having attempted the exercises\nif you struggle with this quiz, that’s a sign you need to revise the material (see the references provided above)\n\n\n\nA random variable \\(X\\) takes values \\(1,2,3\\) with probabilities \\(0.2,0.3,0.5\\). Compute \\(E(X)\\).\n\nA. \\(2.3\\)\nB. \\(2.0\\)\nC. \\(2.5\\)\nD. \\(1.8\\)\n\n\n\n\nSuppose you have the following data: \\(1,2,3\\)\nCompute the variance using:\n\\[\n\\mathrm{Var}(X)=\\frac{1}{n}\\sum_{i=1}^{n}(x_i-\\bar{x})^2\n\\]\n\nA. \\(\\frac{2}{3}\\)\nB. \\(1\\)\nC. \\(2\\)\nD. \\(\\frac{1}{2}\\)\n\n\n\n\nIf \\(\\mathrm{Var}(X)=1\\), then the standard deviation \\(\\sigma\\) is:\n\nA. \\(0\\)\nB. \\(1\\)\nC. \\(2\\)\nD. \\(0.5\\)\n\n\n\n\nIf \\(P(A)=\\frac{1}{2}\\) and \\(P(B)=\\frac{1}{3}\\), find the intersection of both events \\(P(A\\cap B)\\).\n\nA. \\(\\frac{1}{6}\\)\nB. \\(\\frac{2}{5}\\)\nC. \\(\\frac{1}{3}\\)\nD. \\(\\frac{5}{6}\\)\n\n\n\n\nIf \\(P(A\\cap B)=\\frac{1}{4}\\) and \\(P(B)=\\frac{1}{2}\\), find \\(P(A|B)\\).\n\nA. \\(\\frac{1}{2}\\)\nB. \\(\\frac{1}{4}\\)\nC. \\(\\frac{1}{8}\\)\nD. \\(1\\)\n\n\n\n\nSuppose the probability of getting rejected when asking someone for their phone number is 0.8. What is the probability of getting at least 1 phone number after having made 5 attempts?\n\nA. \\(0.8^5\\)\nB. \\((1-0.8)^5\\)\nC. \\(1-0.8^5\\)\nD. \\(0.8\\times5\\)\n\n\n\n\nThe covariance \\(\\mathrm{Cov}(3+X,2Y)\\) is:\n\nA. \\(\\mathrm{Cov}(X,Y)\\)\nB. \\(3+\\mathrm{Cov}(X,Y)\\)\nC. \\(2\\mathrm{Cov}(X,Y)\\)\nD. \\(3+2\\mathrm{Cov}(X,Y)\\)\n\n\n\n\nIf \\(Y=3X\\), then the correlation coefficient \\(r\\) is:\n\nA. \\(0\\)\nB. \\(1\\)\nC. \\(-1\\)\nD. \\(3\\)\n\n\n\n\nAn estimator is unbiased if:\n\nA. It always equals the sample value\nB. Its expected value equals the population parameter\nC. Its variance is zero\nD. It is based on large samples only\n\n\n\n\nAs sample size increases, the sample mean:\n\nA. Moves away from the population mean\nB. Becomes more variable\nC. Converges to the population mean\nD. Becomes equal to zero\n\n\n\n\nA 95% confidence interval means:\n\nA. There is a 95% probability the parameter is in the interval\nB. 95% of sample values lie in the interval\nC. 95% of such constructed intervals contain the true parameter\nD. The parameter changes over repeated samples\n\n\n\n\nA confidence interval becomes wider when the:\n\nA. Sample size increases\nB. Standard deviation decreases\nC. Sample mean increases\nD. Chosen confidence level increases\n\n\n\n\nThe purpose of a hypothesis test is to:\n\nA. Prove the null hypothesis\nB. Estimate a parameter exactly\nC. Assess evidence against a claim about a population parameter\nD. Eliminate sampling error\n\n\n\n\nThe null hypothesis typically represents:\n\nA. A new effect or change\nB. No effect or status quo\nC. A biased sample\nD. The sample mean\n\n\n\n\nA Type I error occurs when we:\n\nA. Fail to reject a false null hypothesis\nB. Reject a true null hypothesis\nC. Accept a false alternative hypothesis\nD. Increase sample size incorrectly\n\n\n\n\nIf \\(\\alpha = 0.01\\), this represents:\n\nA. 1% chance of Type II error\nB. 1% chance of rejecting a true null hypothesis\nC. 99% confidence interval width\nD. 1% probability the alternative is true\n\n\n\n\nWhich statement correctly describes a p-value?\n\nA. The probability that the null hypothesis is true\nB. The probability that the alternative hypothesis is true\nC. The probability of observing results at least as extreme as in the sample, assuming the null hypothesis is true\nD. The probability that the sample is biased\n\n\n\n\nA small p-value indicates:\n\nA. Strong evidence against the null hypothesis\nB. Strong evidence for the null hypothesis\nC. The null hypothesis is true\nD. The sample is biased\n\n\n\n\nIn the model \\[\ny = \\beta_0 + \\beta_1 x + u\n\\] the coefficient \\(\\beta_1\\) represents:\n\nA. The value of \\(y\\) when \\(x=0\\)\nB. The change in \\(y\\) for a one-unit change in \\(x\\)\nC. The average value of \\(x\\)\nD. The error term\n\n\n\n\nThe residuals \\(u\\) are defined as:\n\nA. \\(y - \\bar{y}\\)\nB. \\(\\hat{y} - y\\)\nC. \\(y - \\hat{y}\\)\nD. \\(\\beta_0 + \\beta_1 x\\)\n\n\n\n\nThe OLS estimator chooses coefficients that:\n\nA. Minimise the sum of squared residuals\nB. Maximise the sum of residuals\nC. Make all residuals equal\nD. Set residuals to zero for all observations\n\n\n\n\nThe \\(R^2\\) statistic measures:\n\nA. The slope of the regression line\nB. The proportion of variation in \\(y\\) explained by the model\nC. The variance of the error term\nD. The correlation between \\(x\\) and \\(u\\)\n\n\n\n\nIf \\(R^2 = 1\\), then:\n\nA. The model explains none of the variation in \\(y\\)\nB. All points lie exactly on the regression line\nC. The slope must be zero\nD. The intercept must be zero\n\n\n\n\nUnder the classical assumptions, the OLS estimator is:\n\nA. Biased but consistent\nB. Unbiased\nC. Always equal to sample means\nD. Always negative\n\n\n\n\nA regressor is endogenous if:\n\nA. It is independent of the error term\nB. It is correlated with the error term\nC. It has zero variance\nD. It is not normally distributed\n\n\n\n\nOmitted variable bias occurs when:\n\nA. A relevant variable is included in the regression\nB. An irrelevant variable is included\nC. A relevant variable is excluded that is correlated with the regressors\nD. A relevant variable is excluded\n\n\n\n\nPerfect multicollinearity occurs when:\n\nA. The error term has zero mean\nB. One regressor is an exact linear combination of others\nC. The dependent variable is constant\nD. The model has no intercept\n\n\n\n\nIn the model \\(y = \\beta_0 + \\beta_1 x + u\\), \\(\\beta_0\\) is:\n\nA. The change in \\(y\\) when \\(x\\) changes\nB. The value of \\(y\\) when \\(x=0\\)\nC. The slope of the regression line\nD. The variance of \\(y\\)\n\n\n\n\nA high correlation between \\(x\\) and \\(y\\) implies:\n\nA. \\(x\\) causes \\(y\\)\nB. \\(y\\) causes \\(x\\)\nC. No causal interpretation is guaranteed\nD. The model is correctly specified\n\n\n\n\nWhich of the following regression models is nonlinear in parameters (and hence cannot be estimated by OLS)?\n\nA. \\(y = \\beta_0 + \\beta_1 x + u\\)\nB. \\(y = \\beta_0 + \\beta_1 x^2 + u\\)\nC. \\(y = \\beta_0 + \\beta_1 \\ln(x) + u\\)\nD. \\(y = \\beta_0 + x^{\\beta_1} + u\\)\n\n\n\n\n\n\n\n\n\n\nTipAnswer Key\n\n\n\n\n\n\nA\n\nA\n\nB\n\nA\n\nA\n\nC\n\nC\n\nB\n\nB\n\nC\n\nC\n\nD\n\nC\n\nB\n\nB\n\nB\n\nC\nA\nB\n\nC\n\nA\n\nB\n\nB\n\nB\n\nB\n\nC\n\nB\n\nB\n\nC\n\nD",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -756,7 +756,7 @@
     "text": "A random variable \\(X\\) takes values \\(1,2,3\\) with probabilities \\(0.2,0.3,0.5\\). Compute \\(E(X)\\).\n\nA. \\(2.3\\)\nB. \\(2.0\\)\nC. \\(2.5\\)\nD. \\(1.8\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -767,7 +767,7 @@
     "text": "Suppose you have the following data: \\(1,2,3\\)\nCompute the variance using:\n\\[\n\\mathrm{Var}(X)=\\frac{1}{n}\\sum_{i=1}^{n}(x_i-\\bar{x})^2\n\\]\n\nA. \\(\\frac{2}{3}\\)\nB. \\(1\\)\nC. \\(2\\)\nD. \\(\\frac{1}{2}\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -778,7 +778,7 @@
     "text": "If \\(\\mathrm{Var}(X)=1\\), then the standard deviation \\(\\sigma\\) is:\n\nA. \\(0\\)\nB. \\(1\\)\nC. \\(2\\)\nD. \\(0.5\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -789,7 +789,7 @@
     "text": "If \\(P(A)=\\frac{1}{2}\\) and \\(P(B)=\\frac{1}{3}\\), find the intersection of both events \\(P(A\\cap B)\\).\n\nA. \\(\\frac{1}{6}\\)\nB. \\(\\frac{2}{5}\\)\nC. \\(\\frac{1}{3}\\)\nD. \\(\\frac{5}{6}\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -800,7 +800,7 @@
     "text": "If \\(P(A\\cap B)=\\frac{1}{4}\\) and \\(P(B)=\\frac{1}{2}\\), find \\(P(A|B)\\).\n\nA. \\(\\frac{1}{2}\\)\nB. \\(\\frac{1}{4}\\)\nC. \\(\\frac{1}{8}\\)\nD. \\(1\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -811,7 +811,7 @@
     "text": "Suppose the probability of getting rejected when asking someone for their phone number is 0.8. What is the probability of getting at least 1 phone number after having made 5 attempts?\n\nA. \\(0.8^5\\)\nB. \\((1-0.8)^5\\)\nC. \\(1-0.8^5\\)\nD. \\(0.8\\times5\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -822,7 +822,7 @@
     "text": "The covariance \\(\\mathrm{Cov}(3+X,2Y)\\) is:\n\nA. \\(\\mathrm{Cov}(X,Y)\\)\nB. \\(3+\\mathrm{Cov}(X,Y)\\)\nC. \\(2\\mathrm{Cov}(X,Y)\\)\nD. \\(3+2\\mathrm{Cov}(X,Y)\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -833,7 +833,7 @@
     "text": "If \\(Y=3X\\), then the correlation coefficient \\(r\\) is:\n\nA. \\(0\\)\nB. \\(1\\)\nC. \\(-1\\)\nD. \\(3\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -844,7 +844,7 @@
     "text": "An estimator is unbiased if:\n\nA. It always equals the sample value\nB. Its expected value equals the population parameter\nC. Its variance is zero\nD. It is based on large samples only",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -855,7 +855,7 @@
     "text": "As sample size increases, the sample mean:\n\nA. Moves away from the population mean\nB. Becomes more variable\nC. Converges to the population mean\nD. Becomes equal to zero",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -866,7 +866,7 @@
     "text": "A 95% confidence interval means:\n\nA. There is a 95% probability the parameter is in the interval\nB. 95% of sample values lie in the interval\nC. 95% of such constructed intervals contain the true parameter\nD. The parameter changes over repeated samples",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -877,7 +877,7 @@
     "text": "A confidence interval becomes wider when the:\n\nA. Sample size increases\nB. Standard deviation decreases\nC. Sample mean increases\nD. Chosen confidence level increases",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -888,7 +888,7 @@
     "text": "The purpose of a hypothesis test is to:\n\nA. Prove the null hypothesis\nB. Estimate a parameter exactly\nC. Assess evidence against a claim about a population parameter\nD. Eliminate sampling error",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -899,7 +899,7 @@
     "text": "The null hypothesis typically represents:\n\nA. A new effect or change\nB. No effect or status quo\nC. A biased sample\nD. The sample mean",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -910,7 +910,7 @@
     "text": "A Type I error occurs when we:\n\nA. Fail to reject a false null hypothesis\nB. Reject a true null hypothesis\nC. Accept a false alternative hypothesis\nD. Increase sample size incorrectly",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -921,7 +921,7 @@
     "text": "If \\(\\alpha = 0.01\\), this represents:\n\nA. 1% chance of Type II error\nB. 1% chance of rejecting a true null hypothesis\nC. 99% confidence interval width\nD. 1% probability the alternative is true",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -932,7 +932,7 @@
     "text": "Which statement correctly describes a p-value?\n\nA. The probability that the null hypothesis is true\nB. The probability that the alternative hypothesis is true\nC. The probability of observing results at least as extreme as in the sample, assuming the null hypothesis is true\nD. The probability that the sample is biased",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -943,7 +943,7 @@
     "text": "A small p-value indicates:\n\nA. Strong evidence against the null hypothesis\nB. Strong evidence for the null hypothesis\nC. The null hypothesis is true\nD. The sample is biased",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -954,7 +954,7 @@
     "text": "In the model \\[\ny = \\beta_0 + \\beta_1 x + u\n\\] the coefficient \\(\\beta_1\\) represents:\n\nA. The value of \\(y\\) when \\(x=0\\)\nB. The change in \\(y\\) for a one-unit change in \\(x\\)\nC. The average value of \\(x\\)\nD. The error term",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -965,7 +965,7 @@
     "text": "The residuals \\(u\\) are defined as:\n\nA. \\(y - \\bar{y}\\)\nB. \\(\\hat{y} - y\\)\nC. \\(y - \\hat{y}\\)\nD. \\(\\beta_0 + \\beta_1 x\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -976,7 +976,7 @@
     "text": "The OLS estimator chooses coefficients that:\n\nA. Minimise the sum of squared residuals\nB. Maximise the sum of residuals\nC. Make all residuals equal\nD. Set residuals to zero for all observations",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -987,7 +987,7 @@
     "text": "The \\(R^2\\) statistic measures:\n\nA. The slope of the regression line\nB. The proportion of variation in \\(y\\) explained by the model\nC. The variance of the error term\nD. The correlation between \\(x\\) and \\(u\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -998,7 +998,7 @@
     "text": "If \\(R^2 = 1\\), then:\n\nA. The model explains none of the variation in \\(y\\)\nB. All points lie exactly on the regression line\nC. The slope must be zero\nD. The intercept must be zero",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1009,7 +1009,7 @@
     "text": "Under the classical assumptions, the OLS estimator is:\n\nA. Biased but consistent\nB. Unbiased\nC. Always equal to sample means\nD. Always negative",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1020,7 +1020,7 @@
     "text": "A regressor is endogenous if:\n\nA. It is independent of the error term\nB. It is correlated with the error term\nC. It has zero variance\nD. It is not normally distributed",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1031,7 +1031,7 @@
     "text": "Omitted variable bias occurs when:\n\nA. A relevant variable is included in the regression\nB. An irrelevant variable is included\nC. A relevant variable is excluded that is correlated with the regressors\nD. A relevant variable is excluded",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1042,7 +1042,7 @@
     "text": "Perfect multicollinearity occurs when:\n\nA. The error term has zero mean\nB. One regressor is an exact linear combination of others\nC. The dependent variable is constant\nD. The model has no intercept",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1053,7 +1053,7 @@
     "text": "In the model \\(y = \\beta_0 + \\beta_1 x + u\\), \\(\\beta_0\\) is:\n\nA. The change in \\(y\\) when \\(x\\) changes\nB. The value of \\(y\\) when \\(x=0\\)\nC. The slope of the regression line\nD. The variance of \\(y\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1064,7 +1064,7 @@
     "text": "A high correlation between \\(x\\) and \\(y\\) implies:\n\nA. \\(x\\) causes \\(y\\)\nB. \\(y\\) causes \\(x\\)\nC. No causal interpretation is guaranteed\nD. The model is correctly specified",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1075,7 +1075,7 @@
     "text": "Which of the following regression models is nonlinear in parameters (and hence cannot be estimated by OLS)?\n\nA. \\(y = \\beta_0 + \\beta_1 x + u\\)\nB. \\(y = \\beta_0 + \\beta_1 x^2 + u\\)\nC. \\(y = \\beta_0 + \\beta_1 \\ln(x) + u\\)\nD. \\(y = \\beta_0 + x^{\\beta_1} + u\\)",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1086,7 +1086,7 @@
     "text": "TipAnswer Key\n\n\n\n\n\n\nA\n\nA\n\nB\n\nA\n\nA\n\nC\n\nC\n\nB\n\nB\n\nC\n\nC\n\nD\n\nC\n\nB\n\nB\n\nB\n\nC\nA\nB\n\nC\n\nA\n\nB\n\nB\n\nB\n\nB\n\nC\n\nB\n\nB\n\nC\n\nD",
     "crumbs": [
       "Econometrics",
-      "Quiz"
+      "Econometrics Quiz"
     ]
   },
   {
@@ -1338,8 +1338,7 @@
     "section": "",
     "text": "Mathematics and Statistics\nThe following mathematical and statistical concepts are frequently used throughout the core modules of the programme. Please complete the Maths Quiz to check your knowledge and identify any gaps that require further study.\n\n\n\n\n\n\n\n\n\nArea\nTopics\nEssential Reading\nFurther Reading\n\n\n\n\nAlgebra\nFractions, powers, roots\nRenshaw (2012), chaps. 1–2\n\n\n\nFunctions and Equations\nLinear and nonlinear equations, intercepts, slopes, simultaneous equations\nRenshaw (2012), chaps. 3–4\nChiang and Wainwright (2005), chaps. 2–3\n\n\nCalculus\nDerivatives and differentiation, rules of differentiation, total derivatives, logarithmic and exponential functions\nRenshaw (2012), chaps. 6–9, 11, 13\nChiang and Wainwright (2005), chaps. 6–8, 10\n\n\nOptimisation\nFirst-order conditions, second-order conditions, minima and maxima, concavity and convexity, constrained optimisation\nRenshaw (2012), chaps. 14–16\nChiang and Wainwright (2005), chaps. 9, 11–12\n\n\nMatrix Algebra\nMatrix operations, transpose, inverse, determinants\nRenshaw (2012), chaps. 19\nChiang and Wainwright (2005), chaps. 4–5\n\n\nStatistics\nRandom variables and probability, probability distributions, expected value, variance, standard deviation, covariance, correlation, sampling, hypothesis testing, point estimation, confidence intervals, p-values\nBarrow (2017), chaps. 1–5\nLarsen and Marx (2012), chaps. 2–7\n\n\n\n\n\n\n\n\nReferences\n\nBarrow, Michael. 2017. Statistics for Economics, Accounting and Business Studies. Pearson. https://www.pearson.com/en-gb/subject-catalog/p/statistics-for-economics-accounting-and-business-studies/P200000010560?view=educator&tab=author-bios.\n\n\nChiang, Alpha C, and Kevin Wainwright. 2005. Fundamental Methods of Mathematical Economics. 4th ed. McGraw-Hill Education. https://sfc33ed4d8ae30993.jimcontent.com/download/version/1422985041/module/5761828811/name/Chiang A. Fundamental Methods of Mathematical Economics 4ed.pdf.\n\n\nLarsen, Richard J., and Morris L. Marx. 2012. An Introduction to Mathematical Statistics and Its Applications, 5th Edition. Prentice Hall. https://math.emory.edu/~lchen41/teaching/2020_Spring/Larsen-5E.pdf.\n\n\nRenshaw, Geoff. 2012. Maths for Economics, 3rd Edition. Oxford University Press. https://www.amazon.co.uk/Maths-Economics-Geoff-Renshaw/dp/0199602123.",
     "crumbs": [
-      "Mathematics & Statistics",
-      "Overview"
+      "Mathematics & Statistics"
     ]
   },
   {
@@ -1347,10 +1346,9 @@
     "href": "macro.html",
     "title": "LUBS5101 Macroeconomics",
     "section": "",
-    "text": "LUBS5101 Macroeconomics\nStudents should be familiar with:\n\nNational accounting identities and the distinction between nominal and real variables.\nThe Classical/Neoclassical macroeconomic model.\nThe IS-LM model.\nThe AD-AS model.\n\nPlease complete the Macro Quiz to check your knowledge and identify any gaps that require further study.\nRecommended Reading:\n\nFroyen (2013), chap. 2: National income accounting.\nFroyen (2013), chaps. 3-4: Classical/Neoclassical macroeconomics.\nFroyen (2013), chaps. 5-7: IS-LM model.\nFroyen (2013), chap. 8: AD-AS model.\n\n\n\n\n\n\nReferences\n\nFroyen, Richard T. 2013. Macroeconomics. Theories and Policies. 10th Edition. Pearson Education. https://17732073624882489580.googlegroups.com/attach/ad694e5aa624/Richard T. Froyen-Macroeconomics_ Theories and Policies-Pearson.pdf?part=0.1&vt=ANaJVrFAchA_Wniln-wEAfksYlEiWgbxY4-WPG-lovooYkF56h3oA7Fd3GjSVlVXZELYT9ucck7NtAyswEPwEdijqzAFDRRcox-fuQzRIMRwfCBcWyGAniE.",
+    "text": "LUBS5101 Macroeconomics\nStudents should be familiar with:\n\nNational accounting identities and the distinction between nominal and real variables.\nThe Classical/Neoclassical macroeconomic model.\nThe IS-LM model.\nThe AD-AS model.\n\nPlease complete the Macroeconomics Quiz to check your knowledge and identify any gaps that require further study.\nRecommended Reading:\n\nFroyen (2013), chap. 2: National income accounting.\nFroyen (2013), chaps. 3-4: Classical/Neoclassical macroeconomics.\nFroyen (2013), chaps. 5-7: IS-LM model.\nFroyen (2013), chap. 8: AD-AS model.\n\n\n\n\n\n\nReferences\n\nFroyen, Richard T. 2013. Macroeconomics. Theories and Policies. 10th Edition. Pearson Education. https://17732073624882489580.googlegroups.com/attach/ad694e5aa624/Richard T. Froyen-Macroeconomics_ Theories and Policies-Pearson.pdf?part=0.1&vt=ANaJVrFAchA_Wniln-wEAfksYlEiWgbxY4-WPG-lovooYkF56h3oA7Fd3GjSVlVXZELYT9ucck7NtAyswEPwEdijqzAFDRRcox-fuQzRIMRwfCBcWyGAniE.",
     "crumbs": [
-      "Macroeconomics",
-      "Overview"
+      "Macroeconomics"
     ]
   },
   {
@@ -1954,8 +1952,7 @@
     "section": "",
     "text": "LUBS5134 Econometrics and LUBS5108 Applied Econometrics\nStudents are expected to have covered the mathematics and statistics topics listed here.\nIn addition, students should be familiar with:\n\nLinear regression.\nProperties of Ordinary Least Squares (OLS).\nInterpretation of regression coefficients.\nStatistical significance.\nMeasures of fit.\n\nPlease complete the Statistics & Econometrics Quiz to check your knowledge and identify any gaps that require further study.\nRecommended Reading:\n\nWooldridge (2024), appendices: mathematical and statistical foundations.\nWooldridge (2024), chaps. 1-4: core undergraduate econometrics material.\n\n\n\n\n\n\nReferences\n\nWooldridge, Jeffrey M. 2024. Introductory Econometrics: A Modern Approach. Cengage. https://cbpbu.ac.in/userfiles/file/2020/STUDY_MAT/ECO/2.pdf.",
     "crumbs": [
-      "Econometrics",
-      "Overview"
+      "Econometrics"
     ]
   },
   {
@@ -1965,8 +1962,7 @@
     "section": "",
     "text": "LUBS5103 Microeconomics\nStudents should be familiar with:\n\nConsumer choice theory.\nIndifference curves and utility functions.\nChoice under uncertainty.\nFirm behaviour and production theory.\nCompetitive markets.\n\nPlease complete the Microeconomics Quiz to check your knowledge and identify any gaps that require further study.\nRecommended Reading:\n\nVarian (2024), chaps. 3-6: Consumer choice.\nVarian (2024), chap. 12: Choice under uncertainty.\nVarian (2024), chaps. 19-21: Theory of the firm.\nVarian (2024), chap. 16: Markets.\n\n\n\n\n\n\nReferences\n\nVarian, Hal R. 2024. Intermediate Microeconomics with Calculus. Norton. https://zalamsyah.staff.unja.ac.id/wp-content/uploads/sites/286/2019/11/1-Intermediate-Microeconomics-with-Calculus-A-Modern-Approach-Varian.pdf.",
     "crumbs": [
-      "Microeconomics",
-      "Overview"
+      "Microeconomics"
     ]
   },
   {
@@ -1974,7 +1970,17 @@
     "href": "index.html#contents",
     "title": "MSc Economics Starter Kit",
     "section": "",
-    "text": "Overview\nMathematics Quiz\n\n\n\n\n\nOverview\nMacroeconomics Quiz\n\n\n\n\n\nOverview\nMicroeconomics Quiz\n\n\n\n\n\nOverview\nStatistics & Econometrics Quiz",
+    "text": "Mathematics & Statistics\nMacroeconomics\nMicroeconomics\nEconometrics",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#contents-1",
+    "href": "index.html#contents-1",
+    "title": "MSc Economics Starter Kit",
+    "section": "",
+    "text": "Mathematics & Statistics\nMacroeconomics\nMicroeconomics\nEconometrics",
     "crumbs": [
       "Home"
     ]

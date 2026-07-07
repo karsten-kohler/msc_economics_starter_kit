@@ -3,17 +3,7 @@ title: "MSc Economics Starter Kit"
 #author: "Karsten Kohler"
 format: 
   html:
-     # slide-number: true
-    #  theme: moon
-    #  incremental: false
-    #  transition: none
-    #  smaller: true
-   #   progress: true
-      toc: true
-      number-sections: true
-      fig-align: center
-      scrollable: true 
-      embed-resources: true
+      toc: false
 bibliography: starter_kit.bib
 
 ---
@@ -22,25 +12,9 @@ bibliography: starter_kit.bib
 This document provides resources to prepare for the *MSc Economics* programme at the University of Leeds. It outlines the prior knowledge assumed in the core modules of the programme. References are given to help you refresh your knowledge and address any gaps before the programme begins. The document also provides a set of multiple choice quizzes to test your knowledge and identify any gaps. Incoming students are strongly encouraged to review the material listed below before commencing their studies.
 
 ## Contents
-
-### Mathematics & Statistics
-
-- [Overview](maths_stats.qmd)
-- [Mathematics Quiz](maths-quiz.qmd)
-
-### Macroeconomics
-
-- [Overview](macro.qmd)
-- [Macroeconomics Quiz](macro-quiz.qmd)
-
-### Microeconomics
-
-- [Overview](micro.qmd)
-- [Microeconomics Quiz](micro-quiz.qmd)
-
-### Econometrics
-
-- [Overview](metrix.qmd)
-- [Statistics & Econometrics Quiz](stats-quiz.qmd)
+- [Mathematics & Statistics](maths_stats.qmd)
+- [Macroeconomics](macro.qmd)
+- [Microeconomics](micro.qmd)
+- [Econometrics](metrix.qmd)
 
 

@@ -6,7 +6,7 @@ Students should be familiar with:
 - The IS-LM model.
 - The AD-AS model.
 
-Please complete the [Macro Quiz](macro-quiz.qmd) to check your knowledge and identify any gaps that require further study.
+Please complete the [Macroeconomics Quiz](macro-quiz.qmd) to check your knowledge and identify any gaps that require further study.
 	
 Recommended Reading:
 	

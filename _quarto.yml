@@ -13,36 +13,33 @@ website:
         text: Home
 
       - section: "Mathematics & Statistics"
+        href: maths_stats.qmd
         contents:
-          - href: maths_stats.qmd
-            text: Overview
           - href: maths-quiz.qmd
-            text: Quiz
+            text: Maths Quiz
 
       - section: "Macroeconomics"
+        href: macro.qmd
         contents:
-          - href: macro.qmd
-            text: Overview
           - href: macro-quiz.qmd
-            text: Quiz
+            text: Macro Quiz
 
       - section: "Microeconomics"
+        href: micro.qmd
         contents:
-          - href: micro.qmd
-            text: Overview
           - href: micro-quiz.qmd
-            text: Quiz
+            text: Micro Quiz
 
       - section: "Econometrics"
+        href: metrix.qmd
         contents:
-          - href: metrix.qmd
-            text: Overview
           - href: stats-quiz.qmd
-            text: Quiz
+            text: Econometrics Quiz
 
 format:
   html:
     theme: cosmo
+    dark: darkly
     toc: true
     toc-depth: 3
     number-sections: false
