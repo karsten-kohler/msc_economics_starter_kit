@@ -38,8 +38,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    dark: darkly
+    theme:
+      light: cosmo
+      dark: darkly
     toc: true
     toc-depth: 3
     number-sections: false
