@@ -5,7 +5,53 @@ project:
 website:
   title: "MSc Economics Starter Kit"
 
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+
+      - section: "Mathematics & Statistics"
+        contents:
+          - href: maths_stats.qmd
+            text: Overview
+          - href: maths-quiz.qmd
+            text: Quiz
+
+      - section: "Macroeconomics"
+        contents:
+          - href: macro.qmd
+            text: Overview
+          - href: macro-quiz.qmd
+            text: Quiz
+
+      - section: "Microeconomics"
+        contents:
+          - href: micro.qmd
+            text: Overview
+          - href: micro-quiz.qmd
+            text: Quiz
+
+      - section: "Econometrics"
+        contents:
+          - href: metrix.qmd
+            text: Overview
+          - href: stats-quiz.qmd
+            text: Quiz
+
 format:
   html:
+    theme: cosmo
     toc: true
+    toc-depth: 3
     number-sections: false
+    fig-align: center
+    embed-resources: true
+    smooth-scroll: true
+
+bibliography: starter_kit.bib
+
+execute:
+  freeze: auto
+    

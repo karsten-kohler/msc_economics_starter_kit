@@ -1,0 +1,17 @@
+# LUBS5134 Econometrics and LUBS5108 Applied Econometrics {#metrix}
+Students are expected to have covered the mathematics and statistics topics listed [here](maths_stats.qmd).
+	
+In addition, students should be familiar with:
+	
+- Linear regression.
+- Properties of Ordinary Least Squares (OLS).
+- Interpretation of regression coefficients.
+- Statistical significance.
+- Measures of fit.
+
+Please complete the [Statistics & Econometrics Quiz](stats-quiz.qmd) to check your knowledge and identify any gaps that require further study.
+	
+Recommended Reading:
+	
+- @Wooldridge2024, appendices: mathematical and statistical foundations.
+- @Wooldridge2024, chaps. 1-4: core undergraduate econometrics material.

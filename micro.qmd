@@ -1,0 +1,17 @@
+# LUBS5103 Microeconomics {#micro}
+Students should be familiar with:
+	
+- Consumer choice theory.
+- Indifference curves and utility functions.
+- Choice under uncertainty.
+- Firm behaviour and production theory.
+- Competitive markets.
+
+Please complete the [Microeconomics Quiz](micro-quiz.qmd) to check your knowledge and identify any gaps that require further study.
+	
+Recommended Reading:
+
+- @Varian2024, chaps. 3-6: Consumer choice.
+- @Varian2024, chap. 12: Choice under uncertainty.
+- @Varian2024, chaps. 19-21: Theory of the firm.
+- @Varian2024, chap. 16: Markets.

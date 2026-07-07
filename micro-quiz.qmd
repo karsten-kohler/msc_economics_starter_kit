@@ -1,0 +1,240 @@
+# Microeconomics Quiz {#micro-quiz}
+- this quiz tests elementary microeconomics knowledge you should be familiar with from your previous degree
+- you should be able to answer the question with pen and paper only and **without any external help** (no calculator, no internet, no AI)
+- give it a go!
+- check the solutions only after having attempted the exercises
+- if you struggle with this quiz, that's a sign you need to revise the material (see the references provided above)
+  
+## Question 1. Budget Constraints
+
+A consumer faces a price of £5 for Good $X$ and £10 for Good $Y$, with an income of £100. If the government imposes a 20% tax on Good $X$ and gives the consumer a £20 cash transfer, what is the new budget constraint equation?
+
+- A) $5x + 10y = 120$
+- B) $6x + 10y = 120$
+- C) $6x + 12y = 120$
+- D) $6x + 10y = 100$
+
+## Question 2. Indifference Curves and Marginal Rate of Substitution (MRS)
+
+Why do standard indifference curves typically exhibit a *diminishing* marginal rate of substitution ($MRS$)?
+
+- A) Because consumers always prefer extreme bundles to balanced consumption bundles.
+- B) Because as a consumer has more of Good $X$, they are willing to give up increasingly more of Good $Y$ to get an extra unit of $X$.
+- C) Because of the assumption of non-satiation (more is always better).
+- D) Because consumers experience a diminishing marginal utility for a good as they consume more of it.
+
+
+## Question 3. Utility Maximization
+
+A consumer has the utility function $U(x, y) = xy$. If the price of $x$ is $P_x$, the price of $y$ is $P_y$, and income is $M$, what is the optimal demand function for good $x$?
+
+- A) $x^* = \frac{M}{2P_x}$
+- B) $x^* = \frac{M}{P_x}$
+- C) $x^* = \frac{2M}{P_x}$
+- D) $x^* = \frac{M}{P_x + P_y}$
+
+
+## Question 4. Income and Substitution Effects
+
+When the price of a normal good falls, how do the substitution effect (SE) and income effect (IE) operate?
+
+- A) SE increases quantity demanded; IE decreases quantity demanded.
+- B) SE decreases quantity demanded; IE increases quantity demanded.
+- C) Both SE and IE act to increase the quantity demanded.
+- D) Both SE and IE act to decrease the quantity demanded.
+
+
+## Question 5. Inferior and Giffen Goods
+
+Which of the following statements correctly describes a Giffen good?
+
+- A) The substitution effect is stronger than the income effect, and the good is normal.
+- B) The income effect is negative and strictly stronger than the substitution effect.
+- C) The income effect is positive and strictly stronger than the substitution effect.
+- D) The income effect and substitution effect perfectly cancel each other out.
+
+
+## Question 6. Consumer Surplus
+
+If a perfectly competitive market becomes monopolized, what happens to consumer surplus and deadweight loss?
+
+- A) Consumer surplus increases, and deadweight loss increases.
+- B) Consumer surplus decreases, and deadweight loss decreases.
+- C) Consumer surplus decreases, and deadweight loss increases.
+- D) Consumer surplus increases, and deadweight loss decreases.
+
+
+## Question 7. Intertemporal Choice
+
+An individual lives for two periods, earning an income of $M_1$ in Period 1 and $M_2$ in Period 2. They can borrow or save at a market interest rate of $r$. What is the absolute slope of their intertemporal budget line when Period 2 consumption ($C_2$) is plotted on the vertical axis and Period 1 consumption ($C_1$) is plotted on the horizontal axis?
+
+- A) $\frac{1}{1+r}$
+- B) $1 + r$
+- C) $r$
+- D) $\frac{M_2}{M_1}$
+
+
+## Question 8. Returns to Scale
+
+A production function is given by $Q = 2L^{0.6}K^{0.4}$. If both labor ($L$) and capital ($K$) are doubled, what happens to output ($Q$)?
+
+- A) Output exactly doubles (Constant Returns to Scale).
+- B) Output more than doubles (Increasing Returns to Scale).
+- C) Output increases but less than doubles (Decreasing Returns to Scale).
+- D) Output remains exactly the same.
+
+
+## Question 9. Cost Minimization
+
+A firm minimizes its costs for a target output level when which of the following conditions is met?
+
+*(Note: $MP_L$ and $MP_K$ represent the Marginal Product of labor and capital, respectively; $w$ represents the wage rate of labor; and $r$ represents the rental rate of capital).*
+
+- A) $MP_L = MP_K$
+- B) $\frac{MP_L}{r} = \frac{MP_K}{w}$
+- C) $\frac{MP_L}{w} = \frac{MP_K}{r}$
+- D) $w \cdot L = r \cdot K$
+
+
+## Question 10. Profit Maximization
+
+For a perfectly competitive, price-taking firm, why does the general profit-maximizing condition $MR = MC$ simplify down to $P = MC$?
+
+- A) Because the firm can change its price at will to match costs.
+- B) Because the firm faces a perfectly elastic demand curve, meaning the market price is constant for any quantity they sell.
+- C) Because the firm experiences constant returns to scale at all levels of output.
+- D) Because total cost is always equal to total revenue in competition.
+
+
+## Question 11. Market Equilibria
+
+Suppose a competitive market is initially in long-run equilibrium. If the government introduces a specific per-unit tax paid by consumers, what is the ultimate long-run effect on the price received by producers and the number of firms in the industry, assuming a constant-cost industry?
+
+- A) The price received by producers falls; the number of firms decreases.
+- B) The price received by producers remains unchanged; the number of firms decreases.
+- C) The price received by producers remains unchanged; the number of firms remains unchanged.
+- D) The price received by producers falls; the number of firms remains unchanged.
+
+
+## Question 12. Corner Solutions and Consumer Optimization
+
+**Sketch Exercise:** On a clean grid, sketch a standard downward-sloping linear budget line. Now, draw a map of downward-sloping linear indifference curves representing perfect substitutes, making your indifference curves strictly *steeper* than the budget line you drew.
+
+Based on your visual map, if the absolute slope of these indifference curves ($MRS_{xy}$) is strictly greater than the absolute slope of the budget line ($\frac{P_x}{P_y}$), where must the utility-maximizing allocation mathematically lie?
+
+- A) At an interior tangency bundle containing positive amounts of both goods.
+- B) At a corner solution along the vertical axis, consuming exclusively Good Y $(0, M/P_y)$.
+- C) At a corner solution along the horizontal axis, consuming exclusively Good X $(M/P_x, 0)$.
+- D) The problem has no solution since standard optimization conditions fail.
+
+
+## Question 13. Production and Isocost Shifts
+
+**Sketch Exercise:** Sketch a standard, smoothly curved Isoquant representing a fixed target output level. Tangent to this, draw a straight, downward-sloping Isocost line. Now, sketch a second Isocost line that is strictly *flatter* than your first one.
+
+If a macroeconomic shock causes a firm's Isocost line ($\frac{w}{r}$) to flatten in this manner, how must the firm adjust its input mix along your smooth convex Isoquant to minimize long-run costs?
+
+- A) The wage rate has risen relative to capital, prompting a substitution toward more Capital ($K$).
+- B) The wage rate has fallen relative to capital, prompting a substitution toward more Labor ($L$).
+- C) The firm will scale back both capital and labor evenly due to increasing returns.
+- D) Input ratios remain entirely fixed because price changes do not change technological constraints.
+
+
+## Question 14. Non-Convex Preferences
+
+Imagine a consumer whose indifference curves are structurally **concave** to the origin (bowed outward), while the budget line remains a standard straight downward-sloping constraint intersecting both axes at 10 units. Where must the optimal consumer choice reside?
+
+- A) At the exact interior midpoint, purchasing 5 units of X and 5 units of Y.
+- B) At an interior point where the $MRS$ equals the price ratio.
+- C) At an all-or-nothing corner solution on one of the two axes, depending on which boundary sits on a higher curve.
+- D) At any coordinate along the budget line, as utility is completely identical across concave bounds.
+
+
+## Question 15. Risk Preferences and Expected Utility
+
+A consumer has a utility function over wealth given by $u(w) = \sqrt{w}$. They are offered a gamble where they have a 50% chance of winning £100 and a 50% chance of winning £0. Which of the following statements correctly identifies their risk preference and their expected utility from this gamble?
+
+- A) Risk-neutral; Expected Utility = 5
+- B) Risk-averse; Expected Utility = 5
+- C) Risk-seeking; Expected Utility = 10
+- D) Risk-averse; Expected Utility = 50
+
+
+## Question 16. The Certainty Equivalent
+
+Using the same consumer preferences ($u(w) = \sqrt{w}$) and gamble from the previous question (50% chance of £100, 50% chance of £0), what is the consumer’s **Certainty Equivalent** ($CE$) for this gamble?
+
+- A) £50
+- B) £25
+- C) £10
+- D) £0
+
+
+## Question 17. Risk Premium
+
+An individual with initial wealth of £100 faces a 10% chance of losing £64 due to an accident, leaving them with £36. Their utility function is $u(w) = \ln(w)$. If a perfectly competitive, actuarially fair insurance company offers a policy to fully cover this risk, the premium charged will exactly equal the expected loss. What is the maximum amount this risk-averse individual would theoretically be willing to pay for this full insurance policy?
+
+- A) Exactly £6.40
+- B) Less than £6.40
+- C) Greater than £6.40
+- D) £0, because the risk of loss is too small to insure.
+
+
+## Question 18. Intertemporal Choice (Borrowing Constraints)
+
+A consumer earns a high income in Period 2 ($M_2$) but zero income in Period 1 ($M_1 = 0$). They have standard, smoothly curved convex intertemporal preferences and wish to consume a positive amount in both periods. If the credit market breaks down completely and banks refuse to offer any consumption loans, how will this borrowing constraint impact their optimal choice bundle $(C_1, C_2)$?
+
+- A) They will experience a corner solution where $C_1 = 0$ and $C_2 = M_2$.
+- B) They will borrow against $M_2$ at a shadow interest rate, keeping $C_1 > 0$.
+- C) They will consume a balanced bundle where $C_1 = C_2 = \frac{M_2}{2}$.
+- D) They will choose to save a portion of their Period 1 income for the future.
+
+
+## Question 19. Market Equilibria (Subsidy Incidence)
+
+The government introduces a specific per-unit cash subsidy paid directly to suppliers in a perfectly competitive market. If the price elasticity of demand is highly inelastic ($|\epsilon_D| \to 0$) and the price elasticity of supply is highly elastic ($\epsilon_S \to \infty$), who captures the economic benefit of this subsidy?
+
+- A) Producers capture the entire benefit via significantly higher profit margins per unit.
+- B) Consumers capture the entire benefit via a price drop that matches the full size of the subsidy.
+- C) The subsidy benefit is split equally between consumers and producers regardless of elasticities.
+- D) Neither party benefits because subsidies always generate deadweight loss that destroys all value.
+
+
+## Question 20. Market Equilibria (Externalities and Quotas)
+
+A perfectly competitive market generates a negative production externality (e.g., pollution) for every unit of output produced, causing the Social Marginal Cost ($SMC$) to sit strictly above the Private Marginal Cost ($PMC$). If the government wants to restore allocative efficiency, it can implement an output quota. To achieve the socially optimal equilibrium, where should this quota be set?
+
+- A) At the exact quantity where the market demand curve intersects the Private Marginal Cost ($PMC$) curve.
+- B) At a quantity of zero, completely banning the production of the good.
+- C) At the exact quantity where the market demand curve intersects the Social Marginal Cost ($SMC$) curve.
+- D) At a level higher than the competitive equilibrium quantity to generate offsetting tax revenues.
+
+
+## Answers Micro Quiz
+
+::: {.callout-tip collapse="true"}
+### Answer Key
+
+1. B
+2. D
+3. A
+4. C
+5. B
+6. C
+7. B
+8. A
+9. C
+10. B
+11. B
+12. C
+13. B
+14. C
+15. B
+16. B
+17. C
+18. A 
+19. B 
+20. C 
+
+:::
+

@@ -1,0 +1,327 @@
+# Statistics and Econometrics Quiz {#stats-quiz}
+- this quiz tests elementary statistics and econometrics knowledge you should be familiar with from your previous degree
+- you should be able to answer the question with pen and paper only and **without any external help** (no calculator, no internet, no AI)
+- give it a go!
+- check the solutions only after having attempted the exercises
+- if you struggle with this quiz, that's a sign you need to revise the material (see the references provided above)
+  
+## Question 1: Expected Value 
+
+A random variable $X$ takes values $1,2,3$ with probabilities $0.2,0.3,0.5$. Compute $E(X)$.
+
+- A. $2.3$
+- B. $2.0$
+- C. $2.5$
+- D. $1.8$
+
+## Question 2: Variance 
+
+Suppose you have the following data: $1,2,3$
+
+Compute the variance using:
+
+$$
+\mathrm{Var}(X)=\frac{1}{n}\sum_{i=1}^{n}(x_i-\bar{x})^2
+$$
+
+- A. $\frac{2}{3}$
+- B. $1$
+- C. $2$
+- D. $\frac{1}{2}$
+
+## Question 3: Standard Deviation
+
+If $\mathrm{Var}(X)=1$, then the standard deviation $\sigma$ is:
+
+- A. $0$
+- B. $1$
+- C. $2$
+- D. $0.5$
+
+## Question 4: Independent Events
+
+If $P(A)=\frac{1}{2}$ and $P(B)=\frac{1}{3}$, find the intersection of both events $P(A\cap B)$.
+
+- A. $\frac{1}{6}$
+- B. $\frac{2}{5}$
+- C. $\frac{1}{3}$
+- D. $\frac{5}{6}$
+
+## Question 5: Conditional Probability
+
+If $P(A\cap B)=\frac{1}{4}$ and $P(B)=\frac{1}{2}$, find $P(A|B)$.
+
+- A. $\frac{1}{2}$
+- B. $\frac{1}{4}$
+- C. $\frac{1}{8}$
+- D. $1$
+
+## Question 6: Probability of At Least One Success 
+
+Suppose the probability of getting rejected when asking someone for their phone number is 0.8. What is the probability of getting at least 1 phone number after having made 5 attempts?
+
+- A. $0.8^5$
+- B. $(1-0.8)^5$
+- C. $1-0.8^5$
+- D. $0.8\times5$
+
+## Question 7: Covariance 
+
+The covariance $\mathrm{Cov}(3+X,2Y)$ is:
+
+- A. $\mathrm{Cov}(X,Y)$
+- B. $3+\mathrm{Cov}(X,Y)$
+- C. $2\mathrm{Cov}(X,Y)$
+- D. $3+2\mathrm{Cov}(X,Y)$
+
+## Question 8: Correlation 
+
+If $Y=3X$, then the correlation coefficient $r$ is:
+
+- A. $0$
+- B. $1$
+- C. $-1$
+- D. $3$
+
+## Question 9: Properties of Estimators
+
+An estimator is unbiased if:
+
+- A. It always equals the sample value
+- B. Its expected value equals the population parameter
+- C. Its variance is zero
+- D. It is based on large samples only
+
+## Question 10: Law of Large Numbers
+
+As sample size increases, the sample mean:
+
+- A. Moves away from the population mean
+- B. Becomes more variable
+- C. Converges to the population mean
+- D. Becomes equal to zero
+
+## Question 11: Confidence Interval
+
+A 95% confidence interval means:
+
+- A. There is a 95% probability the parameter is in the interval 
+- B. 95% of sample values lie in the interval
+- C. 95% of such constructed intervals contain the true parameter
+- D. The parameter changes over repeated samples
+
+## Question 12: Width of Confidence Interval
+
+A confidence interval becomes wider when the:
+
+- A. Sample size increases
+- B. Standard deviation decreases
+- C. Sample mean increases
+- D. Chosen confidence level increases
+
+## Question 13: Hypothesis Testing 
+
+The purpose of a hypothesis test is to:
+
+- A. Prove the null hypothesis
+- B. Estimate a parameter exactly
+- C. Assess evidence against a claim about a population parameter
+- D. Eliminate sampling error
+
+## Question 14: Null Hypothesis
+
+The null hypothesis typically represents:
+
+- A. A new effect or change
+- B. No effect or status quo
+- C. A biased sample
+- D. The sample mean
+
+## Question 15: Type I Error
+
+A Type I error occurs when we:
+
+- A. Fail to reject a false null hypothesis
+- B. Reject a true null hypothesis
+- C. Accept a false alternative hypothesis
+- D. Increase sample size incorrectly
+
+## Question 16: Significance Level
+
+If $\alpha = 0.01$, this represents:
+
+- A. 1% chance of Type II error
+- B. 1% chance of rejecting a true null hypothesis
+- C. 99% confidence interval width
+- D. 1% probability the alternative is true
+
+
+## Question 17: p-value I
+Which statement correctly describes a p-value?
+
+- A. The probability that the null hypothesis is true
+- B. The probability that the alternative hypothesis is true
+- C. The probability of observing results at least as extreme as in the sample, assuming the null hypothesis is true
+- D. The probability that the sample is biased
+
+
+## Question 18: p-value II
+
+A small p-value indicates:
+
+- A. Strong evidence against the null hypothesis
+- B. Strong evidence for the null hypothesis
+- C. The null hypothesis is true
+- D. The sample is biased
+
+## Question 19: Simple Linear Regression 
+
+In the model
+$$
+y = \beta_0 + \beta_1 x + u
+$$
+the coefficient $\beta_1$ represents:
+
+- A. The value of $y$ when $x=0$
+- B. The change in $y$ for a one-unit change in $x$
+- C. The average value of $x$
+- D. The error term
+
+## Question 20: Residuals
+
+The residuals $u$ are defined as:
+
+- A. $y - \bar{y}$
+- B. $\hat{y} - y$
+- C. $y - \hat{y}$
+- D. $\beta_0 + \beta_1 x$
+
+## Question 21: Ordinary Least Squares (OLS)
+
+The OLS estimator chooses coefficients that:
+
+- A. Minimise the sum of squared residuals
+- B. Maximise the sum of residuals
+- C. Make all residuals equal
+- D. Set residuals to zero for all observations
+
+## Question 22: Goodness of Fit I
+
+The $R^2$ statistic measures:
+
+- A. The slope of the regression line
+- B. The proportion of variation in $y$ explained by the model
+- C. The variance of the error term
+- D. The correlation between $x$ and $u$
+
+## Question 23: Goodness of Fit II
+
+If $R^2 = 1$, then:
+
+- A. The model explains none of the variation in $y$
+- B. All points lie exactly on the regression line
+- C. The slope must be zero
+- D. The intercept must be zero
+
+## Question 24: Properties of OLS
+
+Under the classical assumptions, the OLS estimator is:
+
+- A. Biased but consistent
+- B. Unbiased
+- C. Always equal to sample means
+- D. Always negative
+
+## Question 25: Endogeneity
+
+A regressor is endogenous if:
+
+- A. It is independent of the error term
+- B. It is correlated with the error term
+- C. It has zero variance
+- D. It is not normally distributed
+
+## Question 26: Omitted Variable Bias
+
+Omitted variable bias occurs when:
+
+- A. A relevant variable is included in the regression
+- B. An irrelevant variable is included
+- C. A relevant variable is excluded that is correlated with the regressors
+- D. A relevant variable is excluded 
+
+## Question 27: Multicollinearity
+
+Perfect multicollinearity occurs when:
+
+- A. The error term has zero mean
+- B. One regressor is an exact linear combination of others
+- C. The dependent variable is constant
+- D. The model has no intercept
+
+## Question 28: Interpretation of Intercept
+
+In the model $y = \beta_0 + \beta_1 x + u$, $\beta_0$ is:
+
+- A. The change in $y$ when $x$ changes
+- B. The value of $y$ when $x=0$
+- C. The slope of the regression line
+- D. The variance of $y$
+
+## Question 29: Correlation vs Causation
+
+A high correlation between $x$ and $y$ implies:
+
+- A. $x$ causes $y$
+- B. $y$ causes $x$
+- C. No causal interpretation is guaranteed
+- D. The model is correctly specified
+
+
+## Question 30: Nonlinearities
+
+Which of the following regression models is **nonlinear in parameters** (and hence cannot be estimated by OLS)?
+
+- A. $y = \beta_0 + \beta_1 x + u$
+- B. $y = \beta_0 + \beta_1 x^2 + u$
+- C. $y = \beta_0 + \beta_1 \ln(x) + u$
+- D. $y = \beta_0 + x^{\beta_1} + u$
+
+
+## Answers Statistics & Econometrics Quiz
+
+::: {.callout-tip collapse="true"}
+### Answer Key
+
+1. A  
+2. A  
+3. B  
+4. A  
+5. A  
+6. C  
+7. C  
+8. B  
+9. B  
+10. C  
+11. C  
+12. D  
+13. C  
+14. B  
+15. B  
+16. B  
+17. C
+18. A
+19. B  
+20. C  
+21. A  
+22. B  
+23. B  
+24. B  
+25. B  
+26. C  
+27. B  
+28. B  
+29. C  
+30. D
+
+:::

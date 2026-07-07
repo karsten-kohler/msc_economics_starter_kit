@@ -1,0 +1,234 @@
+# Macroeconomics Quiz {#macro-quiz}
+- this quiz tests elementary macroeconomics knowledge you should be familiar with from your previous degree
+- you should be able to answer the question with pen and paper only and **without any external help** (no internet, no AI)
+- give it a go!
+- check the solutions only after having attempted the exercises
+- if you struggle with this quiz, that's a sign you need to revise the material (see the resources provided)
+  
+
+## Question 1: GDP identity
+
+The GDP identity for an open economy (where $Y$: GDP, $C$: consumption, $G$: government consumption, $I$: investment, $M$: imports, $X$: exports) is:
+
+- A. $Y = C + G + M - X$
+- B. $Y = C + G + I + M - X$
+- C. $Y = C + G + I + X - M$
+- D. $Y = C + X - M$
+
+## Question 2: Sectoral balances
+
+Using the definition of saving as disposable income not spent on consumption, $S = Y - T - C$, where $T$ are net tax payments, the GDP identity can be re-written as:
+
+- A. $(S - T) + (T - G) = (X - M)$
+- B. $(S - I) + (T - G) = (X - M)$
+- C. $(S - I) + (T - G) = (M - X)$
+- D. $(S - I) + (G - T) = (X - M)$,
+
+where the terms in brackets represent net lending (borrowing) of the domestic private sector, the government, and the external balance.
+
+
+## Question 3: Real wage
+
+The real wage is defined as:
+
+- A. the fair wage
+- B. the nominal wage minus the inflation rate
+- C. the wage consistent with zero inflation
+- D. the nominal wage divided by the price level
+
+## Question 4: Government budget constraint
+The government's budget constraint is given by $\Delta B = G - T$ (where $B$: stock of government bonds, $G$: government spending, $T$: tax revenues). 
+
+If government spending is 1.2tn and tax revenue is 1.1tn, then:
+
+- A. the budget deficit is 0.1tn
+- B. the budget surplus is 0.1tn
+- C. government debt is 0.1tn
+- D. government debt decreases by 0.1tn
+
+
+## Question 5: CPI 
+
+If the consumer price index (CPI) decreases from 200 to 180, deflation is:
+
+- A. 5%
+- B. 10%
+- C. 11%
+- D. 20%
+
+## Question 6: Unemployment Rate
+
+The unemployment rate is calculated as:
+
+- A. unemployed / population
+- B. unemployed / labour force
+- C. employed / population
+- D. labour force / population
+
+
+## Question 7: Neoclassical Theory I
+In a neoclassical (or Classical) macroeconomic model, the real wage:
+
+- A. is equal to the minimum wage
+- B. is equal to the marginal product of labour 
+- C. is equal to the marginal product of capital
+- D. is equal to the average product of labour
+
+
+## Question 8: Neoclassical Theory II
+In a neoclassical (or Classical) macroeconomic model, the real wage:
+
+- A. clears the labour market (no unemployment)
+- B. is rigid 
+- C. clears the goods market
+- D. is always at the subsistence level
+
+
+## Question 9: Neoclassical Theory III
+In a neoclassical (or Classical) macroeconomic model, aggregate output is determined by:
+
+- A. aggregate demand
+- B. aggregate supply (via the production function) 
+- C. output maximisation
+- D. the government
+
+
+## Question 10: Quantity Theory of Money
+The equation of exchange $M \times V = P \times Y$ (where $M$: quantity of money, $V$: transaction velocity of money, $P$: price level, $Y:$ real output) is an identity that always holds. 
+
+According to the *Quantity Theory of Money*, the causality runs from:
+
+- A. $Y$ to $P$
+- B. $V$ to $M$
+- C. $Y$ to $M$
+- D. $M$ to $P$
+
+
+## Question 11: Loanable Funds Theory
+
+In a closed economy without government, goods market equilibrium (defined as aggregate demand being equal to aggregate supply) requires $I=S$. According to Loanable Funds Theory, this equilibrium is established by:
+
+- A. the aggregate price level
+- B. the real wage
+- C. the interest rate 
+- D. output adjustment
+
+
+## Question 12: Keynes
+
+According to John Maynard Keynes, prolonged periods of unemployment can occur because:
+
+- A. real wages are too high
+- B. aggregate demand may be insufficient to purchase the economy's potential output
+- C. labour productivity is too low
+- D. too much government regulation of labour markets
+
+
+## Question 13: Keynesian Theory I
+
+In a closed economy without government, goods market equilibrium (defined as aggregate demand being equal to aggregate supply) requires $I=S$. According to Keynesian, this equilibrium is established by:
+
+- A. the aggregate price level
+- B. the real wage
+- C. the interest rate 
+- D. output adjustment
+
+
+## Question 14: Keynesian Theory II
+
+Suppose aggregate demand in a closed economy without investment is given by: $Y = C + G$. 
+Suppose the consumption function is $C=c_0+c_1Y$.
+Derive the effect of an increase in government spending $G$ on equilibrium output. (Hint: you need to solve this system of equations for $Y^*$ and then take the derivative of $Y^*$ with respect to $G$.)
+
+- A. $\frac{1}{1-c_1}$
+- B. $\frac{1}{1-c_0}$
+- C. $\frac{G}{1-c_1}$ 
+- D. $\frac{G}{1-c_0}$
+
+
+## Question 15: Keynesian Theory III
+According to Keynesian theory, what happens to the interest rate on securities (e.g. government bonds) when there is an increase in liquidity preference (i.e. an increase in the demand for money):
+
+- A. interest rate decreases
+- B. interest rate increases
+- C. interest rate stays constant
+- D. Keynesian theory does not make a prediction on this
+
+
+## Question 16: Phillips Curve
+
+The Phillips Curve describes:
+
+- A. a negative relationship between inflation and unemployment
+- B. a positive relationship between inflation and unemployment
+- C. a relationship between GDP and exports
+- D. a relationship between interest rates and money supply
+
+
+## Question 17: Monetary Policy
+
+Expansionary monetary policy conducted by modern central banks means:
+
+- A. raising of interest rates
+- B. lowering of money supply
+- C. lowering of interest rates
+- D. increase of money supply
+
+
+## Question 18: Bond Markets
+
+Suppose the price of government bonds go up. What happens to government bond yields?
+
+- A. decrease
+- B. increase
+- C. stay constant
+- D. there is no relationship between bond prices and bond yields
+
+## Question 19: Commercial Bank Balance Sheet
+
+Which items are on the *asset* side of a typical commercial bank balance sheet? 
+
+- A. Equity, deposits
+- B. Reserves, loans to customers
+- C. Deposits, loans to customers
+- D. Reserves, deposits
+
+
+## Question 20: Central Bank Balance Sheet
+
+Which items are on the *liability* side of a typical central bank balance sheet? 
+
+- A. Loans to commercial banks, government bonds
+- B. Government bonds, reserves of commercial banks
+- C. Cash in circulation, Loans to commercial banks
+- D. Cash in circulation, reserves of commercial banks
+
+
+## Answers Macro Quiz
+
+::: {.callout-tip collapse="true"}
+### Answer Key
+
+1. C  
+2. B  
+3. D  
+4. A   
+5. B  
+6. B  
+7. B  
+8. A  
+9. B  
+10. D  
+11. C  
+12. B
+13. D  
+14. A  
+15. B  
+16. A  
+17. C
+18. A  
+19. B  
+20. D  
+
+:::
+

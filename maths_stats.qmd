@@ -1,0 +1,11 @@
+# Mathematics and Statistics {#maths}
+The following mathematical and statistical concepts are frequently used throughout the core modules of the programme. Please complete the [Maths Quiz](maths-quiz.qmd) to check your knowledge and identify any gaps that require further study.
+	
+| **Area** | **Topics** | **Essential Reading** | **Further Reading** |
+|-----------|------------|-----------------------|---------------------|
+| Algebra | Fractions, powers, roots | @Renshaw2012, chaps. 1–2 | |
+| Functions and Equations | Linear and nonlinear equations, intercepts, slopes, simultaneous equations | @Renshaw2012, chaps. 3–4 | @Chiang2005, chaps. 2–3 |
+| Calculus | Derivatives and differentiation, rules of differentiation, total derivatives, logarithmic and exponential functions | @Renshaw2012, chaps. 6–9, 11, 13 | @Chiang2005, chaps. 6–8, 10 |
+| Optimisation | First-order conditions, second-order conditions, minima and maxima, concavity and convexity, constrained optimisation | @Renshaw2012, chaps. 14–16 | @Chiang2005, chaps. 9, 11–12 |
+| Matrix Algebra | Matrix operations, transpose, inverse, determinants | @Renshaw2012, chaps. 19 | @Chiang2005, chaps. 4–5 |
+| Statistics | Random variables and probability, probability distributions, expected value, variance, standard deviation, covariance, correlation, sampling, hypothesis testing, point estimation, confidence intervals, p-values | @Barrow2017, chaps. 1–5 | @Larsen2012, chaps. 2–7 |
